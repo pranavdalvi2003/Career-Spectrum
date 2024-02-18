@@ -1,0 +1,484 @@
+[{
+  "_id": 2,
+  "title": "Software Programmer / Architect"
+},{
+  "_id": 3,
+  "title": "Financial Manager"
+},{
+  "_id": 4,
+  "title": "Mathematics / Statistics Instructor"
+},{
+  "_id": 5,
+  "title": "Chemical Analyst"
+},{
+  "_id": 6,
+  "title": "Fashion Designer"
+},{
+  "_id": 7,
+  "title": "Nurse / Human Care"
+},{
+  "_id": 8,
+  "title": "Human Resources Management"
+},{
+  "_id": 9,
+  "title": "Lawyer / Attorney"
+},{
+  "_id": 10,
+  "title": "Geologist"
+},{
+  "_id": 11,
+  "title": "Translation and Interpretation Specialist"
+},{
+  "_id": 12,
+  "title": "Physician / Doctor"
+},{
+  "_id": 13,
+  "title": "Biology Teacher"
+},{
+  "_id": 14,
+  "title": "Dietician / Nutritionists"
+},{
+  "_id": 15,
+  "title": "Pharmaceutical Administrator"
+},{
+  "_id": 16,
+  "title": "Chemistry Teacher"
+},{
+  "_id": 17,
+  "title": "Medical Technologist"
+},{
+  "_id": 18,
+  "title": "Dentist / Dental Hygienist"
+},{
+  "_id": 19,
+  "title": "Public Service Commission Officer"
+},{
+  "_id": 20,
+  "title": "Social Science Professor"
+},{
+  "_id": 21,
+  "title": "Project Manager"
+},{
+  "_id": 22,
+  "title": "Mechanical Engineer"
+},{
+  "_id": 23,
+  "title": "Physicist / Physics Researcher"
+},{
+  "_id": 24,
+  "title": "Entrepreneur"
+},{
+  "_id": 25,
+  "title": " Foreign Language Expert"
+},{
+  "_id": 26,
+  "title": "Interior design"
+},{
+  "_id": 27,
+  "title": "Psychologists"
+},{
+  "_id": 28,
+  "title": "Merchant Navy Officer"
+},{
+  "_id": 38,
+  "title": "Communication Design"
+},{
+  "_id": 29,
+  "title": "Primary Teacher"
+},{
+  "_id": 30,
+  "title": "Architect"
+},{
+  "_id": 41,
+  "title": "Air Hostess"
+},{
+  "_id": 42,
+  "title": "Chartered Accountant"
+},{
+  "_id": 43,
+  "title": "Custom Officer"
+},{
+  "_id": 44,
+  "title": "Cost Accountant"
+},{
+  "_id": 45,
+  "title": "Category Manager"
+},{
+  "_id": 46,
+  "title": "Digital Marketing Manager"
+},{
+  "_id": 47,
+  "title": "Cost Management Accountant (CMA)"
+},{
+  "_id": 48,
+  "title": "Big Data Analyst"
+},{
+  "_id": 49,
+  "title": "Banker"
+},{
+  "_id": 50,
+  "title": "Baker"
+},{
+  "_id": 51,
+  "title": " Bank Probationary Officer(BPO)"
+},{
+  "_id": 52,
+  "title": "Caterer"
+},{
+  "_id": 53,
+  "title": "Chartered Financial Accountant(CFA)"
+},{
+  "_id": 54,
+  "title": "Web Designer"
+},{
+  "_id": 55,
+  "title": "Company Secretary"
+},{
+  "_id": 56,
+  "title": "Aeronautical Engineering"
+},{
+  "_id": 57,
+  "title": "Agricultural Science"
+},{
+  "_id": 58,
+  "title": "Animation"
+},{
+  "_id": 59,
+  "title": "Architecture Engineering"
+},{
+  "_id": 60,
+  "title": "Automobile Engineering"
+},{
+  "_id": 61,
+  "title": "Ayurveda BAMS"
+},{
+  "_id": 62,
+  "title": "Biomedical Engineering"
+},{
+  "_id": 63,
+  "title": "Artificial Intelligence and Machine Learning Engineer"
+},{
+  "_id": 64,
+  "title": " Tourism and Travels"
+},{
+  "_id": 65,
+  "title": "Sports Management"
+},{
+  "_id": 66,
+  "title": "Social Worker"
+},{
+  "_id": 67,
+  "title": "Electrical and Electronics Engineering"
+},{
+  "_id": 68,
+  "title": "Medical Electronics Engineer"
+},{
+  "_id": 69,
+  "title": "Event Manager"
+},{
+  "_id": 70,
+  "title": "Industrial Engineering"
+},{
+  "_id": 71,
+  "title": "Instrumentation Engineering"
+},{
+  "_id": 72,
+  "title": "Marine Engineering"
+},{
+  "_id": 73,
+  "title": "Mechanical Engineering"
+},{
+  "_id": 74,
+  "title": "Educational School Counsellor"
+},{
+  "_id": 75,
+  "title": "Corporate Intelligence Analyst"
+},{
+  "_id": 76,
+  "title": "Computer Science Engineering"
+},{
+  "_id": 77,
+  "title": "Ceramic Engineering"
+},{
+  "_id": 78,
+  "title": "BioTechnology Engineering"
+},{
+  "_id": 79,
+  "title": "Consultant"
+},{
+  "_id": 80,
+  "title": " Chemical Engineering"
+},{
+  "_id": 81,
+  "title": "Choreography"
+},{
+  "_id": 82,
+  "title": "Civil Engineering"
+},{
+  "_id": 83,
+  "title": " Mining Engineering"
+},{
+  "_id": 84,
+  "title": "Physiotherapy"
+},{
+  "_id": 85,
+  "title": "Army Officer"
+},{
+  "_id": 86,
+  "title": " Sales Manager"
+},{
+  "_id": 87,
+  "title": "Research Analyst"
+},{
+  "_id": 88,
+  "title": "Public Relations Officer"
+},{
+  "_id": 89,
+  "title": "Product Manager"
+},{
+  "_id": 90,
+  "title": " Police Officer"
+},{
+  "_id": 91,
+  "title": "Personal Financial Advisor"
+},{
+  "_id": 92,
+  "title": "Marketing Manager"
+},{
+  "_id": 93,
+  "title": "Journalist"
+},{
+  "_id": 94,
+  "title": "Investment Banker"
+},{
+  "_id": 95,
+  "title": "Hotel Manager"
+},{
+  "_id": 96,
+  "title": " Financial Analyst"
+},{
+  "_id": 97,
+  "title": "Fashion Merchandisers"
+},{
+  "_id": 98,
+  "title": "Entrepreneur"
+},{
+  "_id": 99,
+  "title": "Business Manager"
+},{
+  "_id": 100,
+  "title": "Pharmacy"
+},{
+  "_id": 101,
+  "title": "Metallurgy"
+},{
+  "_id": 102,
+  "title": " Mass Communication"
+},{
+  "_id": 103,
+  "title": "Instrumental Music"
+},{
+  "_id": 104,
+  "title": "Foreign Language"
+},{
+  "_id": 105,
+  "title": "Earth Sciences "
+},{
+  "_id": 106,
+  "title": "Detective"
+},{
+  "_id": 107,
+  "title": "Cyber Security "
+},{
+  "_id": 108,
+  "title": "Business Management"
+},{
+  "_id": 109,
+  "title": "Cinematography"
+},{
+  "_id": 110,
+  "title": " Biological Science"
+},{
+  "_id": 111,
+  "title": "Vocal Music"
+},{
+  "_id": 112,
+  "title": "Anthropology"
+},{
+  "_id": 113,
+  "title": "Design"
+},{
+  "_id": 114,
+  "title": "Art Restoration"
+},{
+  "_id": 115,
+  "title": "Bachelor of Education"
+},{
+  "_id": 116,
+  "title": "Art Director"
+},{
+  "_id": 117,
+  "title": "Actuarial Science"
+},{
+  "_id": 118,
+  "title": "Archaeologists"
+},{
+  "_id": 119,
+  "title": "Wildlife Biology"
+},{
+  "_id": 120,
+  "title": "Physical Education Teacher"
+},{
+  "_id": 121,
+  "title": "Advertising"
+},{
+  "_id": 122,
+  "title": "Manufacturing Science and Engineering"
+},{
+  "_id": 123,
+  "title": "Computer Applications"
+},{
+  "_id": 124,
+  "title": "Bank Management"
+},{
+  "_id": 125,
+  "title": "Bachelor of Arts"
+},{
+  "_id": 126,
+  "title": "Business Administration"
+},{
+  "_id": 127,
+  "title": " Accountant"
+},{
+  "_id": 128,
+  "title": " Aerospace Engineering"
+},{
+  "_id": 129,
+  "title": "Astronomy and Astrophysicist"
+},{
+  "_id": 130,
+  "title": "Banking Ombudsman"
+},{
+  "_id": 131,
+  "title": "Curator"
+},{
+  "_id": 132,
+  "title": " Hospital Management"
+},{
+  "_id": 133,
+  "title": "Environmental Science"
+},{
+  "_id": 134,
+  "title": "Monuments and Sculpture Restoration"
+},{
+  "_id": 135,
+  "title": "Logistics and Supply Chain Manager"
+},{
+  "_id": 136,
+  "title": "Electronics and Communication Engineering"
+},{
+  "_id": 137,
+  "title": " Film Director"
+},{
+  "_id": 138,
+  "title": "Film and Drama Production"
+},{
+  "_id": 139,
+  "title": "Fine Arts"
+},{
+  "_id": 140,
+  "title": "Fisheries"
+},{
+  "_id": 141,
+  "title": "Floriculture"
+},{
+  "_id": 142,
+  "title": "Food science nutrition"
+},{
+  "_id": 143,
+  "title": "Food Technology"
+},{
+  "_id": 144,
+  "title": "Forestry"
+},{
+  "_id": 145,
+  "title": "Graphic Designing"
+},{
+  "_id": 146,
+  "title": "Home Science"
+},{
+  "_id": 147,
+  "title": "Homeopathy"
+},{
+  "_id": 148,
+  "title": "Information Communication and Entertainment"
+},{
+  "_id": 149,
+  "title": "Insurance "
+},{
+  "_id": 150,
+  "title": "Oceanography"
+},{
+  "_id": 151,
+  "title": "Textile Engineering"
+},{
+  "_id": 152,
+  "title": "Zoology"
+},{
+  "_id": 153,
+  "title": "Polymer Engineering"
+},{
+  "_id": 154,
+  "title": "Liberal Studies"
+},{
+  "_id": 155,
+  "title": "Library Sciences"
+},{
+  "_id": 156,
+  "title": "Meteorology"
+},{
+  "_id": 157,
+  "title": "Montessori Teaching"
+},{
+  "_id": 158,
+  "title": "Museology"
+},{
+  "_id": 159,
+  "title": "Naturopathy"
+},{
+  "_id": 160,
+  "title": "Naval Architecture Engineering"
+},{
+  "_id": 161,
+  "title": "Performing Arts"
+},{
+  "_id": 162,
+  "title": "Photography"
+},{
+  "_id": 163,
+  "title": "Rehabilitation Psychology"
+},{
+  "_id": 164,
+  "title": "Rehabilitation Therapist"
+},{
+  "_id": 165,
+  "title": "Robotics"
+},{
+  "_id": 166,
+  "title": "Siddha"
+},{
+  "_id": 167,
+  "title": "Special Educator"
+},{
+  "_id": 168,
+  "title": "Speech Language and Hearing"
+},{
+  "_id": 169,
+  "title": "Statistical Science"
+},{
+  "_id": 170,
+  "title": "Unani"
+},{
+  "_id": 171,
+  "title": "Veterinary Science"
+}]

@@ -1,0 +1,8628 @@
+[{
+  "_id": 1,
+  "studentId": 7,
+  "personalityType": "ISTP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 100
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 100
+    },
+    {
+      "subject": "CIVICS",
+      "score": 75
+    },
+    {
+      "subject": "HISTORY",
+      "score": 75
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 75
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 50
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 50
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 0
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "62.5",
+    "technicalIndex": "25.0",
+    "creativeIndex": "62.5",
+    "peopleOrientation": {
+      "DOMINANT": "2",
+      "CAUTIOUS": "1",
+      "INSPIRING": "3",
+      "SUPPORTIVE": "2"
+    }
+  }
+},{
+  "_id": 2,
+  "studentId": 9,
+  "personalityType": "ISFJ",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 100
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 100
+    },
+    {
+      "subject": "CIVICS",
+      "score": 50
+    },
+    {
+      "subject": "HISTORY",
+      "score": 100
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 100
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 75
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 100
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 75
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "75.0",
+    "technicalIndex": "50.0",
+    "creativeIndex": "75.0",
+    "peopleOrientation": {
+      "CAUTIOUS": "1",
+      "INSPIRING": "3",
+      "SUPPORTIVE": "2",
+      "DOMINANT": "2"
+    }
+  }
+},{
+  "_id": 3,
+  "studentId": 10,
+  "personalityType": "ENFP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 100
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 100
+    },
+    {
+      "subject": "CIVICS",
+      "score": 100
+    },
+    {
+      "subject": "HISTORY",
+      "score": 100
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 75
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 100
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 75
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 0
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "87.5",
+    "technicalIndex": "37.5",
+    "creativeIndex": "75.0",
+    "peopleOrientation": {
+      "INSPIRING": "4",
+      "CAUTIOUS": "1",
+      "DOMINANT": "2",
+      "SUPPORTIVE": "1"
+    }
+  }
+},{
+  "_id": 4,
+  "studentId": 11,
+  "personalityType": "ESFP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 100
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 100
+    },
+    {
+      "subject": "CIVICS",
+      "score": 50
+    },
+    {
+      "subject": "HISTORY",
+      "score": 100
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 100
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 100
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 75
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 0
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "50.0",
+    "technicalIndex": "25.0",
+    "creativeIndex": "75.0",
+    "peopleOrientation": {
+      "SUPPORTIVE": "4",
+      "DOMINANT": "1",
+      "CAUTIOUS": "0",
+      "INSPIRING": "3"
+    }
+  }
+},{
+  "_id": 5,
+  "studentId": 12,
+  "personalityType": "ENFP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 100
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 100
+    },
+    {
+      "subject": "CIVICS",
+      "score": 75
+    },
+    {
+      "subject": "HISTORY",
+      "score": 100
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 100
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 100
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 100
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 100
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "87.5",
+    "technicalIndex": "75.0",
+    "creativeIndex": "75.0",
+    "peopleOrientation": {
+      "SUPPORTIVE": "2",
+      "INSPIRING": "2",
+      "DOMINANT": "2",
+      "CAUTIOUS": "2"
+    }
+  }
+},{
+  "_id": 6,
+  "studentId": 13,
+  "personalityType": "ESTP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 100
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 100
+    },
+    {
+      "subject": "CIVICS",
+      "score": 75
+    },
+    {
+      "subject": "HISTORY",
+      "score": 75
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 100
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 50
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 75
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 75
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "87.5",
+    "technicalIndex": "37.5",
+    "creativeIndex": "62.5",
+    "peopleOrientation": {
+      "CAUTIOUS": "0",
+      "DOMINANT": "2",
+      "INSPIRING": "2",
+      "SUPPORTIVE": "4"
+    }
+  }
+},{
+  "_id": 8,
+  "studentId": 14,
+  "personalityType": "ENTJ",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 100
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 100
+    },
+    {
+      "subject": "CIVICS",
+      "score": 75
+    },
+    {
+      "subject": "HISTORY",
+      "score": 75
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 100
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 100
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 100
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 50
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "62.5",
+    "technicalIndex": "75.0",
+    "creativeIndex": "75.0",
+    "peopleOrientation": {
+      "CAUTIOUS": "2",
+      "DOMINANT": "2",
+      "SUPPORTIVE": "1",
+      "INSPIRING": "3"
+    }
+  }
+},{
+  "_id": 9,
+  "studentId": 15,
+  "personalityType": "ENFP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 100
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 75
+    },
+    {
+      "subject": "CIVICS",
+      "score": 75
+    },
+    {
+      "subject": "HISTORY",
+      "score": 50
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 75
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 75
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 100
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 50
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "87.5",
+    "technicalIndex": "25.0",
+    "creativeIndex": "50.0",
+    "peopleOrientation": {
+      "CAUTIOUS": "1",
+      "SUPPORTIVE": "3",
+      "DOMINANT": "3",
+      "INSPIRING": "1"
+    }
+  }
+},{
+  "_id": 10,
+  "studentId": 16,
+  "personalityType": "ENTP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 100
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 100
+    },
+    {
+      "subject": "CIVICS",
+      "score": 75
+    },
+    {
+      "subject": "HISTORY",
+      "score": 75
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 100
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 100
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 100
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 75
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "75.0",
+    "technicalIndex": "62.5",
+    "creativeIndex": "75.0",
+    "peopleOrientation": {
+      "SUPPORTIVE": "0",
+      "DOMINANT": "1",
+      "INSPIRING": "4",
+      "CAUTIOUS": "3"
+    }
+  }
+},{
+  "_id": 11,
+  "studentId": 17,
+  "personalityType": "ENTP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 100
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 100
+    },
+    {
+      "subject": "CIVICS",
+      "score": 75
+    },
+    {
+      "subject": "HISTORY",
+      "score": 100
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 100
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 100
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 100
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 75
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "50.0",
+    "technicalIndex": "37.5",
+    "creativeIndex": "62.5",
+    "peopleOrientation": {
+      "INSPIRING": "2",
+      "SUPPORTIVE": "4",
+      "CAUTIOUS": "2",
+      "DOMINANT": "0"
+    }
+  }
+},{
+  "_id": 12,
+  "studentId": 18,
+  "personalityType": "ESTJ",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 100
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 100
+    },
+    {
+      "subject": "CIVICS",
+      "score": 100
+    },
+    {
+      "subject": "HISTORY",
+      "score": 50
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 75
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 75
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 100
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 50
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "62.5",
+    "technicalIndex": "75.0",
+    "creativeIndex": "62.5",
+    "peopleOrientation": {
+      "DOMINANT": "2",
+      "SUPPORTIVE": "3",
+      "CAUTIOUS": "1",
+      "INSPIRING": "2"
+    }
+  }
+},{
+  "_id": 13,
+  "studentId": 19,
+  "personalityType": "ESTJ",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 50
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 100
+    },
+    {
+      "subject": "CIVICS",
+      "score": 100
+    },
+    {
+      "subject": "HISTORY",
+      "score": 50
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 100
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 75
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 100
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 50
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "75.0",
+    "technicalIndex": "37.5",
+    "creativeIndex": "50.0",
+    "peopleOrientation": {
+      "SUPPORTIVE": "0",
+      "CAUTIOUS": "0",
+      "DOMINANT": "6",
+      "INSPIRING": "2"
+    }
+  }
+},{
+  "_id": 14,
+  "studentId": 20,
+  "personalityType": "ISFJ",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 50
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 75
+    },
+    {
+      "subject": "CIVICS",
+      "score": 100
+    },
+    {
+      "subject": "HISTORY",
+      "score": 25
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 100
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 50
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 75
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 0
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "62.5",
+    "technicalIndex": "37.5",
+    "creativeIndex": "50.0",
+    "peopleOrientation": {
+      "SUPPORTIVE": "1",
+      "CAUTIOUS": "0",
+      "DOMINANT": "3",
+      "INSPIRING": "4"
+    }
+  }
+},{
+  "_id": 16,
+  "studentId": 21,
+  "personalityType": "ESFJ",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 75
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 75
+    },
+    {
+      "subject": "CIVICS",
+      "score": 75
+    },
+    {
+      "subject": "HISTORY",
+      "score": 100
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 100
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 100
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 75
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 50
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "87.5",
+    "technicalIndex": "62.5",
+    "creativeIndex": "62.5",
+    "peopleOrientation": {
+      "INSPIRING": "4",
+      "SUPPORTIVE": "3",
+      "CAUTIOUS": "0",
+      "DOMINANT": "1"
+    }
+  }
+},{
+  "_id": 17,
+  "studentId": 22,
+  "personalityType": "ESFP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 100
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 100
+    },
+    {
+      "subject": "CIVICS",
+      "score": 50
+    },
+    {
+      "subject": "HISTORY",
+      "score": 75
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 100
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 100
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 75
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 25
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "62.5",
+    "technicalIndex": "37.5",
+    "creativeIndex": "62.5",
+    "peopleOrientation": {
+      "CAUTIOUS": "1",
+      "SUPPORTIVE": "3",
+      "INSPIRING": "3",
+      "DOMINANT": "1"
+    }
+  }
+},{
+  "_id": 18,
+  "studentId": 23,
+  "personalityType": "ESTP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 75
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 75
+    },
+    {
+      "subject": "CIVICS",
+      "score": 100
+    },
+    {
+      "subject": "HISTORY",
+      "score": 75
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 100
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 75
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 100
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 75
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "25.0",
+    "technicalIndex": "37.5",
+    "creativeIndex": "62.5",
+    "peopleOrientation": {
+      "INSPIRING": "2",
+      "CAUTIOUS": "3",
+      "DOMINANT": "2",
+      "SUPPORTIVE": "1"
+    }
+  }
+},{
+  "_id": 19,
+  "studentId": 24,
+  "personalityType": "ESFP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 100
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 75
+    },
+    {
+      "subject": "CIVICS",
+      "score": 50
+    },
+    {
+      "subject": "HISTORY",
+      "score": 75
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 100
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 100
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 50
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 75
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "37.5",
+    "technicalIndex": "37.5",
+    "creativeIndex": "62.5",
+    "peopleOrientation": {
+      "DOMINANT": "1",
+      "CAUTIOUS": "1",
+      "INSPIRING": "4",
+      "SUPPORTIVE": "2"
+    }
+  }
+},{
+  "_id": 20,
+  "studentId": 25,
+  "personalityType": "ESTP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 50
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 100
+    },
+    {
+      "subject": "CIVICS",
+      "score": 75
+    },
+    {
+      "subject": "HISTORY",
+      "score": 100
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 25
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 75
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 100
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 0
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "50.0",
+    "technicalIndex": "62.5",
+    "creativeIndex": "37.5",
+    "peopleOrientation": {
+      "CAUTIOUS": "0",
+      "INSPIRING": "6",
+      "SUPPORTIVE": "0",
+      "DOMINANT": "1"
+    }
+  }
+},{
+  "_id": 21,
+  "studentId": 27,
+  "personalityType": "ENTP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 75
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 75
+    },
+    {
+      "subject": "CIVICS",
+      "score": 50
+    },
+    {
+      "subject": "HISTORY",
+      "score": 50
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 75
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 100
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 75
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 25
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "25.0",
+    "technicalIndex": "50.0",
+    "creativeIndex": "37.5",
+    "peopleOrientation": {
+      "DOMINANT": "3",
+      "SUPPORTIVE": "1",
+      "CAUTIOUS": "1",
+      "INSPIRING": "3"
+    }
+  }
+},{
+  "_id": 24,
+  "studentId": 33,
+  "personalityType": "ESFP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 100
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 75
+    },
+    {
+      "subject": "CIVICS",
+      "score": 75
+    },
+    {
+      "subject": "HISTORY",
+      "score": 100
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 75
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 100
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 100
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 75
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "75.0",
+    "technicalIndex": "50.0",
+    "creativeIndex": "75.0",
+    "peopleOrientation": {
+      "SUPPORTIVE": "2",
+      "CAUTIOUS": "3",
+      "DOMINANT": "0",
+      "INSPIRING": "3"
+    }
+  }
+},{
+  "_id": 25,
+  "studentId": 29,
+  "personalityType": "INTJ",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 100
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 100
+    },
+    {
+      "subject": "CIVICS",
+      "score": 75
+    },
+    {
+      "subject": "HISTORY",
+      "score": 75
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 100
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 100
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 100
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 50
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "50.0",
+    "technicalIndex": "62.5",
+    "creativeIndex": "37.5",
+    "peopleOrientation": {
+      "CAUTIOUS": "2",
+      "INSPIRING": "1",
+      "DOMINANT": "2",
+      "SUPPORTIVE": "3"
+    }
+  }
+},{
+  "_id": 26,
+  "studentId": 31,
+  "personalityType": "INTP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 100
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 100
+    },
+    {
+      "subject": "CIVICS",
+      "score": 75
+    },
+    {
+      "subject": "HISTORY",
+      "score": 75
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 100
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 100
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 100
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 100
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "87.5",
+    "technicalIndex": "100.0",
+    "creativeIndex": "75.0",
+    "peopleOrientation": {
+      "CAUTIOUS": "0",
+      "INSPIRING": "4",
+      "DOMINANT": "2",
+      "SUPPORTIVE": "1"
+    }
+  }
+},{
+  "_id": 27,
+  "studentId": 32,
+  "personalityType": "ENTP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 100
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 100
+    },
+    {
+      "subject": "CIVICS",
+      "score": 75
+    },
+    {
+      "subject": "HISTORY",
+      "score": 75
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 75
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 100
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 100
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 25
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "87.5",
+    "technicalIndex": "75.0",
+    "creativeIndex": "62.5",
+    "peopleOrientation": {
+      "CAUTIOUS": "1",
+      "SUPPORTIVE": "5",
+      "DOMINANT": "2",
+      "INSPIRING": "0"
+    }
+  }
+},{
+  "_id": 28,
+  "studentId": 34,
+  "personalityType": "ESFP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 75
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 100
+    },
+    {
+      "subject": "CIVICS",
+      "score": 50
+    },
+    {
+      "subject": "HISTORY",
+      "score": 100
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 100
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 75
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 50
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 0
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "75.0",
+    "technicalIndex": "37.5",
+    "creativeIndex": "62.5",
+    "peopleOrientation": {
+      "CAUTIOUS": "2",
+      "INSPIRING": "4",
+      "DOMINANT": "0",
+      "SUPPORTIVE": "2"
+    }
+  }
+},{
+  "_id": 29,
+  "studentId": 35,
+  "personalityType": "ESTP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 100
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 75
+    },
+    {
+      "subject": "CIVICS",
+      "score": 50
+    },
+    {
+      "subject": "HISTORY",
+      "score": 50
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 75
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 100
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 75
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 0
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "75.0",
+    "technicalIndex": "25.0",
+    "creativeIndex": "25.0",
+    "peopleOrientation": {
+      "SUPPORTIVE": "0",
+      "CAUTIOUS": "0",
+      "INSPIRING": "0",
+      "DOMINANT": "0"
+    }
+  }
+},{
+  "_id": 30,
+  "studentId": 36,
+  "personalityType": "ENTJ",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 100
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 75
+    },
+    {
+      "subject": "CIVICS",
+      "score": 100
+    },
+    {
+      "subject": "HISTORY",
+      "score": 75
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 75
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 100
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 75
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 0
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "62.5",
+    "technicalIndex": "62.5",
+    "creativeIndex": "62.5",
+    "peopleOrientation": {
+      "DOMINANT": "2",
+      "INSPIRING": "4",
+      "CAUTIOUS": "2",
+      "SUPPORTIVE": "0"
+    }
+  }
+},{
+  "_id": 31,
+  "studentId": 38,
+  "personalityType": "INTP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 100
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 75
+    },
+    {
+      "subject": "CIVICS",
+      "score": 50
+    },
+    {
+      "subject": "HISTORY",
+      "score": 75
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 100
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 100
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 100
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 50
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "75.0",
+    "technicalIndex": "62.5",
+    "creativeIndex": "75.0",
+    "peopleOrientation": {
+      "DOMINANT": "3",
+      "INSPIRING": "2",
+      "SUPPORTIVE": "0",
+      "CAUTIOUS": "3"
+    }
+  }
+},{
+  "_id": 32,
+  "studentId": 39,
+  "personalityType": "ESTJ",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 75
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 75
+    },
+    {
+      "subject": "CIVICS",
+      "score": 50
+    },
+    {
+      "subject": "HISTORY",
+      "score": 50
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 100
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 100
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 50
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 0
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "50.0",
+    "technicalIndex": "62.5",
+    "creativeIndex": "62.5",
+    "peopleOrientation": {
+      "DOMINANT": "1",
+      "CAUTIOUS": "1",
+      "SUPPORTIVE": "3",
+      "INSPIRING": "3"
+    }
+  }
+},{
+  "_id": 33,
+  "studentId": 40,
+  "personalityType": "ESTP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 100
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 100
+    },
+    {
+      "subject": "CIVICS",
+      "score": 100
+    },
+    {
+      "subject": "HISTORY",
+      "score": 100
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 100
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 75
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 75
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 0
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "50.0",
+    "technicalIndex": "25.0",
+    "creativeIndex": "37.5",
+    "peopleOrientation": {
+      "CAUTIOUS": "1",
+      "SUPPORTIVE": "5",
+      "DOMINANT": "0",
+      "INSPIRING": "2"
+    }
+  }
+},{
+  "_id": 34,
+  "studentId": 41,
+  "personalityType": "ESTP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 100
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 75
+    },
+    {
+      "subject": "CIVICS",
+      "score": 50
+    },
+    {
+      "subject": "HISTORY",
+      "score": 50
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 75
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 100
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 100
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 25
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "75.0",
+    "technicalIndex": "25.0",
+    "creativeIndex": "50.0",
+    "peopleOrientation": {
+      "DOMINANT": "2",
+      "INSPIRING": "4",
+      "CAUTIOUS": "1",
+      "SUPPORTIVE": "1"
+    }
+  }
+},{
+  "_id": 35,
+  "studentId": 42,
+  "personalityType": "ESTP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 75
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 75
+    },
+    {
+      "subject": "CIVICS",
+      "score": 25
+    },
+    {
+      "subject": "HISTORY",
+      "score": 25
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 100
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 75
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 75
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 0
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "50.0",
+    "technicalIndex": "25.0",
+    "creativeIndex": "75.0",
+    "peopleOrientation": {
+      "INSPIRING": "4",
+      "CAUTIOUS": "3",
+      "DOMINANT": "1",
+      "SUPPORTIVE": "0"
+    }
+  }
+},{
+  "_id": 36,
+  "studentId": 43,
+  "personalityType": "ESTJ",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 100
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 100
+    },
+    {
+      "subject": "CIVICS",
+      "score": 75
+    },
+    {
+      "subject": "HISTORY",
+      "score": 100
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 100
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 100
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 100
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 100
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "75.0",
+    "technicalIndex": "62.5",
+    "creativeIndex": "75.0",
+    "peopleOrientation": {
+      "INSPIRING": "3",
+      "CAUTIOUS": "2",
+      "DOMINANT": "3",
+      "SUPPORTIVE": "0"
+    }
+  }
+},{
+  "_id": 37,
+  "studentId": 44,
+  "personalityType": "ENTP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 75
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 100
+    },
+    {
+      "subject": "CIVICS",
+      "score": 75
+    },
+    {
+      "subject": "HISTORY",
+      "score": 75
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 100
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 100
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 100
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 25
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "87.5",
+    "technicalIndex": "37.5",
+    "creativeIndex": "62.5",
+    "peopleOrientation": {
+      "SUPPORTIVE": "3",
+      "CAUTIOUS": "1",
+      "DOMINANT": "1",
+      "INSPIRING": "3"
+    }
+  }
+},{
+  "_id": 38,
+  "studentId": 48,
+  "personalityType": "ISTP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 100
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 75
+    },
+    {
+      "subject": "CIVICS",
+      "score": 50
+    },
+    {
+      "subject": "HISTORY",
+      "score": 75
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 75
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 75
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 75
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 25
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "62.5",
+    "technicalIndex": "12.5",
+    "creativeIndex": "75.0",
+    "peopleOrientation": {
+      "INSPIRING": "1",
+      "SUPPORTIVE": "3",
+      "CAUTIOUS": "1",
+      "DOMINANT": "3"
+    }
+  }
+},{
+  "_id": 39,
+  "studentId": 50,
+  "personalityType": "ESTP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 100
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 75
+    },
+    {
+      "subject": "CIVICS",
+      "score": 75
+    },
+    {
+      "subject": "HISTORY",
+      "score": 75
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 75
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 100
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 100
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 0
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "87.5",
+    "technicalIndex": "25.0",
+    "creativeIndex": "75.0",
+    "peopleOrientation": {
+      "INSPIRING": "0",
+      "SUPPORTIVE": "5",
+      "CAUTIOUS": "2",
+      "DOMINANT": "1"
+    }
+  }
+},{
+  "_id": 40,
+  "studentId": 51,
+  "personalityType": "ESTP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 75
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 100
+    },
+    {
+      "subject": "CIVICS",
+      "score": 75
+    },
+    {
+      "subject": "HISTORY",
+      "score": 75
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 100
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 100
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 75
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 0
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "50.0",
+    "technicalIndex": "37.5",
+    "creativeIndex": "25.0",
+    "peopleOrientation": {
+      "SUPPORTIVE": "0",
+      "INSPIRING": "2",
+      "DOMINANT": "3",
+      "CAUTIOUS": "3"
+    }
+  }
+},{
+  "_id": 41,
+  "studentId": 28,
+  "personalityType": "ENTP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 100
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 100
+    },
+    {
+      "subject": "CIVICS",
+      "score": 100
+    },
+    {
+      "subject": "HISTORY",
+      "score": 75
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 100
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 75
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 100
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 50
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "87.5",
+    "technicalIndex": "37.5",
+    "creativeIndex": "62.5",
+    "peopleOrientation": {
+      "DOMINANT": "1",
+      "CAUTIOUS": "2",
+      "SUPPORTIVE": "5",
+      "INSPIRING": "0"
+    }
+  }
+},{
+  "_id": 42,
+  "studentId": 30,
+  "personalityType": "ENFP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 75
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 100
+    },
+    {
+      "subject": "CIVICS",
+      "score": 50
+    },
+    {
+      "subject": "HISTORY",
+      "score": 50
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 75
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 100
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 75
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 0
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "75.0",
+    "technicalIndex": "25.0",
+    "creativeIndex": "37.5",
+    "peopleOrientation": {
+      "SUPPORTIVE": "3",
+      "CAUTIOUS": "1",
+      "DOMINANT": "1",
+      "INSPIRING": "3"
+    }
+  }
+},{
+  "_id": 43,
+  "studentId": 37,
+  "personalityType": "ENFP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 75
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 75
+    },
+    {
+      "subject": "CIVICS",
+      "score": 75
+    },
+    {
+      "subject": "HISTORY",
+      "score": 100
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 50
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 75
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 25
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 50
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "37.5",
+    "technicalIndex": "12.5",
+    "creativeIndex": "37.5",
+    "peopleOrientation": {
+      "SUPPORTIVE": "3",
+      "DOMINANT": "1",
+      "INSPIRING": "3",
+      "CAUTIOUS": "1"
+    }
+  }
+},{
+  "_id": 44,
+  "studentId": 45,
+  "personalityType": "ISTP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 100
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 100
+    },
+    {
+      "subject": "CIVICS",
+      "score": 100
+    },
+    {
+      "subject": "HISTORY",
+      "score": 75
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 100
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 100
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 75
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 25
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "37.5",
+    "technicalIndex": "12.5",
+    "creativeIndex": "62.5",
+    "peopleOrientation": {
+      "SUPPORTIVE": "5",
+      "CAUTIOUS": "2",
+      "DOMINANT": "0",
+      "INSPIRING": "1"
+    }
+  }
+},{
+  "_id": 45,
+  "studentId": 46,
+  "personalityType": "ENTP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 100
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 100
+    },
+    {
+      "subject": "CIVICS",
+      "score": 50
+    },
+    {
+      "subject": "HISTORY",
+      "score": 100
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 100
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 100
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 100
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 50
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "12.5",
+    "technicalIndex": "12.5",
+    "creativeIndex": "50.0",
+    "peopleOrientation": {
+      "DOMINANT": "1",
+      "INSPIRING": "1",
+      "CAUTIOUS": "5",
+      "SUPPORTIVE": "1"
+    }
+  }
+},{
+  "_id": 46,
+  "studentId": 47,
+  "personalityType": "INFP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 100
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 100
+    },
+    {
+      "subject": "CIVICS",
+      "score": 50
+    },
+    {
+      "subject": "HISTORY",
+      "score": 75
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 75
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 100
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 100
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 100
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "87.5",
+    "technicalIndex": "50.0",
+    "creativeIndex": "62.5",
+    "peopleOrientation": {
+      "INSPIRING": "7",
+      "CAUTIOUS": "0",
+      "DOMINANT": "1",
+      "SUPPORTIVE": "0"
+    }
+  }
+},{
+  "_id": 47,
+  "studentId": 49,
+  "personalityType": "ESTP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 100
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 100
+    },
+    {
+      "subject": "CIVICS",
+      "score": 100
+    },
+    {
+      "subject": "HISTORY",
+      "score": 100
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 100
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 100
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 100
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 100
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "87.5",
+    "technicalIndex": "75.0",
+    "creativeIndex": "75.0",
+    "peopleOrientation": {
+      "INSPIRING": "3",
+      "CAUTIOUS": "1",
+      "DOMINANT": "3",
+      "SUPPORTIVE": "1"
+    }
+  }
+},{
+  "_id": 48,
+  "studentId": 53,
+  "personalityType": "ENTP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 100
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 100
+    },
+    {
+      "subject": "CIVICS",
+      "score": 75
+    },
+    {
+      "subject": "HISTORY",
+      "score": 100
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 100
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 100
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 75
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 25
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "87.5",
+    "technicalIndex": "37.5",
+    "creativeIndex": "62.5",
+    "peopleOrientation": {
+      "SUPPORTIVE": "0",
+      "DOMINANT": "4",
+      "CAUTIOUS": "1",
+      "INSPIRING": "3"
+    }
+  }
+},{
+  "_id": 49,
+  "studentId": 55,
+  "personalityType": "ENTP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 75
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 75
+    },
+    {
+      "subject": "CIVICS",
+      "score": 100
+    },
+    {
+      "subject": "HISTORY",
+      "score": 75
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 100
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 75
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 75
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 50
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "75.0",
+    "technicalIndex": "75.0",
+    "creativeIndex": "75.0",
+    "peopleOrientation": {
+      "INSPIRING": "2",
+      "SUPPORTIVE": "3",
+      "CAUTIOUS": "2",
+      "DOMINANT": "1"
+    }
+  }
+},{
+  "_id": 50,
+  "studentId": 58,
+  "personalityType": "INTP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 100
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 75
+    },
+    {
+      "subject": "CIVICS",
+      "score": 100
+    },
+    {
+      "subject": "HISTORY",
+      "score": 100
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 100
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 100
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 75
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 0
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "50.0",
+    "technicalIndex": "50.0",
+    "creativeIndex": "62.5",
+    "peopleOrientation": {
+      "INSPIRING": "2",
+      "CAUTIOUS": "1",
+      "DOMINANT": "3",
+      "SUPPORTIVE": "2"
+    }
+  }
+},{
+  "_id": 51,
+  "studentId": 60,
+  "personalityType": "ESTP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 75
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 75
+    },
+    {
+      "subject": "CIVICS",
+      "score": 50
+    },
+    {
+      "subject": "HISTORY",
+      "score": 100
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 100
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 100
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 75
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 50
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "62.5",
+    "technicalIndex": "50.0",
+    "creativeIndex": "75.0",
+    "peopleOrientation": {
+      "CAUTIOUS": "1",
+      "SUPPORTIVE": "4",
+      "DOMINANT": "3",
+      "INSPIRING": "0"
+    }
+  }
+},{
+  "_id": 52,
+  "studentId": 54,
+  "personalityType": "ESTP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 100
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 75
+    },
+    {
+      "subject": "CIVICS",
+      "score": 75
+    },
+    {
+      "subject": "HISTORY",
+      "score": 100
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 100
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 100
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 100
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 0
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "75.0",
+    "technicalIndex": "50.0",
+    "creativeIndex": "62.5",
+    "peopleOrientation": {
+      "DOMINANT": "1",
+      "SUPPORTIVE": "3",
+      "CAUTIOUS": "2",
+      "INSPIRING": "2"
+    }
+  }
+},{
+  "_id": 53,
+  "studentId": 56,
+  "personalityType": "ESTP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 100
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 100
+    },
+    {
+      "subject": "CIVICS",
+      "score": 100
+    },
+    {
+      "subject": "HISTORY",
+      "score": 75
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 75
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 100
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 100
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 25
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "75.0",
+    "technicalIndex": "50.0",
+    "creativeIndex": "75.0",
+    "peopleOrientation": {
+      "CAUTIOUS": "2",
+      "DOMINANT": "3",
+      "INSPIRING": "3",
+      "SUPPORTIVE": "0"
+    }
+  }
+},{
+  "_id": 54,
+  "studentId": 59,
+  "personalityType": "ESTP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 100
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 75
+    },
+    {
+      "subject": "CIVICS",
+      "score": 100
+    },
+    {
+      "subject": "HISTORY",
+      "score": 100
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 100
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 100
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 100
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 50
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "62.5",
+    "technicalIndex": "50.0",
+    "creativeIndex": "62.5",
+    "peopleOrientation": {
+      "CAUTIOUS": "2",
+      "DOMINANT": "2",
+      "INSPIRING": "2",
+      "SUPPORTIVE": "2"
+    }
+  }
+},{
+  "_id": 55,
+  "studentId": 61,
+  "personalityType": "ENTP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 100
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 100
+    },
+    {
+      "subject": "CIVICS",
+      "score": 75
+    },
+    {
+      "subject": "HISTORY",
+      "score": 50
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 100
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 100
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 100
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 100
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "87.5",
+    "technicalIndex": "62.5",
+    "creativeIndex": "62.5",
+    "peopleOrientation": {
+      "CAUTIOUS": "2",
+      "DOMINANT": "3",
+      "INSPIRING": "1",
+      "SUPPORTIVE": "2"
+    }
+  }
+},{
+  "_id": 56,
+  "studentId": 62,
+  "personalityType": "ENTP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 50
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 75
+    },
+    {
+      "subject": "CIVICS",
+      "score": 50
+    },
+    {
+      "subject": "HISTORY",
+      "score": 75
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 100
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 75
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 75
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 0
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "87.5",
+    "technicalIndex": "25.0",
+    "creativeIndex": "50.0",
+    "peopleOrientation": {
+      "CAUTIOUS": "0",
+      "DOMINANT": "1",
+      "INSPIRING": "3",
+      "SUPPORTIVE": "4"
+    }
+  }
+},{
+  "_id": 57,
+  "studentId": 52,
+  "personalityType": "ESFP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 75
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 100
+    },
+    {
+      "subject": "CIVICS",
+      "score": 75
+    },
+    {
+      "subject": "HISTORY",
+      "score": 75
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 100
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 100
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 75
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 0
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "25.0",
+    "technicalIndex": "25.0",
+    "creativeIndex": "50.0",
+    "peopleOrientation": {
+      "DOMINANT": "1",
+      "CAUTIOUS": "0",
+      "SUPPORTIVE": "1",
+      "INSPIRING": "6"
+    }
+  }
+},{
+  "_id": 58,
+  "studentId": 64,
+  "personalityType": "ENTP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 100
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 100
+    },
+    {
+      "subject": "CIVICS",
+      "score": 75
+    },
+    {
+      "subject": "HISTORY",
+      "score": 75
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 100
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 100
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 75
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 25
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "37.5",
+    "technicalIndex": "25.0",
+    "creativeIndex": "50.0",
+    "peopleOrientation": {
+      "DOMINANT": "2",
+      "CAUTIOUS": "0",
+      "INSPIRING": "3",
+      "SUPPORTIVE": "2"
+    }
+  }
+},{
+  "_id": 65,
+  "studentId": 64,
+  "personalityType": "ENTP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 100
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 100
+    },
+    {
+      "subject": "CIVICS",
+      "score": 75
+    },
+    {
+      "subject": "HISTORY",
+      "score": 75
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 100
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 100
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 75
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 25
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "37.5",
+    "technicalIndex": "25.0",
+    "creativeIndex": "50.0",
+    "peopleOrientation": {
+      "CAUTIOUS": "0",
+      "INSPIRING": "3",
+      "DOMINANT": "2",
+      "SUPPORTIVE": "2"
+    }
+  }
+},{
+  "_id": 66,
+  "studentId": 64,
+  "personalityType": "ENTP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 100
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 100
+    },
+    {
+      "subject": "CIVICS",
+      "score": 75
+    },
+    {
+      "subject": "HISTORY",
+      "score": 75
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 100
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 100
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 75
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 25
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "37.5",
+    "technicalIndex": "25.0",
+    "creativeIndex": "50.0",
+    "peopleOrientation": {
+      "DOMINANT": "2",
+      "SUPPORTIVE": "2",
+      "INSPIRING": "3",
+      "CAUTIOUS": "0"
+    }
+  }
+},{
+  "_id": 67,
+  "studentId": 45,
+  "personalityType": "ISTP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 100
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 100
+    },
+    {
+      "subject": "CIVICS",
+      "score": 100
+    },
+    {
+      "subject": "HISTORY",
+      "score": 75
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 100
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 100
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 75
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 25
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "37.5",
+    "technicalIndex": "12.5",
+    "creativeIndex": "62.5",
+    "peopleOrientation": {
+      "DOMINANT": "0",
+      "SUPPORTIVE": "5",
+      "INSPIRING": "1",
+      "CAUTIOUS": "2"
+    }
+  }
+},{
+  "_id": 68,
+  "studentId": 64,
+  "personalityType": "ENTP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 100
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 100
+    },
+    {
+      "subject": "CIVICS",
+      "score": 75
+    },
+    {
+      "subject": "HISTORY",
+      "score": 75
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 100
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 100
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 75
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 25
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "37.5",
+    "technicalIndex": "25.0",
+    "creativeIndex": "50.0",
+    "peopleOrientation": {
+      "CAUTIOUS": "0",
+      "INSPIRING": "3",
+      "DOMINANT": "2",
+      "SUPPORTIVE": "2"
+    }
+  }
+},{
+  "_id": 69,
+  "studentId": 64,
+  "personalityType": "ENTP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 100
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 100
+    },
+    {
+      "subject": "CIVICS",
+      "score": 75
+    },
+    {
+      "subject": "HISTORY",
+      "score": 75
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 100
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 100
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 75
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 25
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "37.5",
+    "technicalIndex": "25.0",
+    "creativeIndex": "50.0",
+    "peopleOrientation": {
+      "DOMINANT": "2",
+      "CAUTIOUS": "0",
+      "SUPPORTIVE": "2",
+      "INSPIRING": "3"
+    }
+  }
+},{
+  "_id": 70,
+  "studentId": 45,
+  "personalityType": "ISTP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 100
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 100
+    },
+    {
+      "subject": "CIVICS",
+      "score": 100
+    },
+    {
+      "subject": "HISTORY",
+      "score": 75
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 100
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 100
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 75
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 25
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "37.5",
+    "technicalIndex": "12.5",
+    "creativeIndex": "62.5",
+    "peopleOrientation": {
+      "DOMINANT": "0",
+      "CAUTIOUS": "2",
+      "SUPPORTIVE": "5",
+      "INSPIRING": "1"
+    }
+  }
+},{
+  "_id": 71,
+  "studentId": 65,
+  "personalityType": "ENTP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 75
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 75
+    },
+    {
+      "subject": "CIVICS",
+      "score": 100
+    },
+    {
+      "subject": "HISTORY",
+      "score": 50
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 50
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 100
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 75
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 0
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "25.0",
+    "technicalIndex": "50.0",
+    "creativeIndex": "50.0",
+    "peopleOrientation": {
+      "INSPIRING": "5",
+      "DOMINANT": "1",
+      "CAUTIOUS": "1",
+      "SUPPORTIVE": "1"
+    }
+  }
+},{
+  "_id": 72,
+  "studentId": 75,
+  "personalityType": "ESTJ",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 50
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 100
+    },
+    {
+      "subject": "CIVICS",
+      "score": 50
+    },
+    {
+      "subject": "HISTORY",
+      "score": 100
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 75
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 75
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 75
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 0
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "62.5",
+    "technicalIndex": "50.0",
+    "creativeIndex": "25.0",
+    "peopleOrientation": {
+      "DOMINANT": "2",
+      "SUPPORTIVE": "3",
+      "INSPIRING": "2",
+      "CAUTIOUS": "1"
+    }
+  }
+},{
+  "_id": 73,
+  "studentId": 76,
+  "personalityType": "ISTP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 50
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 100
+    },
+    {
+      "subject": "CIVICS",
+      "score": 75
+    },
+    {
+      "subject": "HISTORY",
+      "score": 75
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 100
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 75
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 100
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 0
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "87.5",
+    "technicalIndex": "50.0",
+    "creativeIndex": "37.5",
+    "peopleOrientation": {
+      "SUPPORTIVE": "2",
+      "CAUTIOUS": "2",
+      "DOMINANT": "2",
+      "INSPIRING": "2"
+    }
+  }
+},{
+  "_id": 74,
+  "studentId": 77,
+  "personalityType": "ESTJ",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 100
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 75
+    },
+    {
+      "subject": "CIVICS",
+      "score": 75
+    },
+    {
+      "subject": "HISTORY",
+      "score": 75
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 75
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 50
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 75
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 50
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "25.0",
+    "technicalIndex": "25.0",
+    "creativeIndex": "37.5",
+    "peopleOrientation": {
+      "SUPPORTIVE": "2",
+      "CAUTIOUS": "2",
+      "INSPIRING": "3",
+      "DOMINANT": "1"
+    }
+  }
+},{
+  "_id": 75,
+  "studentId": 79,
+  "personalityType": "ESTP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 100
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 100
+    },
+    {
+      "subject": "CIVICS",
+      "score": 100
+    },
+    {
+      "subject": "HISTORY",
+      "score": 75
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 100
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 100
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 100
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 25
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "87.5",
+    "technicalIndex": "62.5",
+    "creativeIndex": "75.0",
+    "peopleOrientation": {
+      "SUPPORTIVE": "0",
+      "INSPIRING": "1",
+      "CAUTIOUS": "3",
+      "DOMINANT": "4"
+    }
+  }
+},{
+  "_id": 76,
+  "studentId": 81,
+  "personalityType": "ISFP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 50
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 75
+    },
+    {
+      "subject": "CIVICS",
+      "score": 50
+    },
+    {
+      "subject": "HISTORY",
+      "score": 75
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 75
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 50
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 75
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 25
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "37.5",
+    "technicalIndex": "25.0",
+    "creativeIndex": "75.0",
+    "peopleOrientation": {
+      "INSPIRING": "1",
+      "SUPPORTIVE": "2",
+      "CAUTIOUS": "2",
+      "DOMINANT": "3"
+    }
+  }
+},{
+  "_id": 77,
+  "studentId": 80,
+  "personalityType": "ISTJ",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 100
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 50
+    },
+    {
+      "subject": "CIVICS",
+      "score": 75
+    },
+    {
+      "subject": "HISTORY",
+      "score": 50
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 100
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 100
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 50
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 50
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "62.5",
+    "technicalIndex": "37.5",
+    "creativeIndex": "75.0",
+    "peopleOrientation": {
+      "DOMINANT": "2",
+      "SUPPORTIVE": "1",
+      "CAUTIOUS": "4",
+      "INSPIRING": "1"
+    }
+  }
+},{
+  "_id": 78,
+  "studentId": 83,
+  "personalityType": "ENTJ",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 100
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 100
+    },
+    {
+      "subject": "CIVICS",
+      "score": 100
+    },
+    {
+      "subject": "HISTORY",
+      "score": 100
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 100
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 100
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 75
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 0
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "62.5",
+    "technicalIndex": "37.5",
+    "creativeIndex": "50.0",
+    "peopleOrientation": {
+      "DOMINANT": "4",
+      "CAUTIOUS": "0",
+      "INSPIRING": "3",
+      "SUPPORTIVE": "1"
+    }
+  }
+},{
+  "_id": 79,
+  "studentId": 86,
+  "personalityType": "ENTP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 75
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 75
+    },
+    {
+      "subject": "CIVICS",
+      "score": 75
+    },
+    {
+      "subject": "HISTORY",
+      "score": 100
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 75
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 100
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 100
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 75
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "50.0",
+    "technicalIndex": "25.0",
+    "creativeIndex": "75.0",
+    "peopleOrientation": {
+      "DOMINANT": "1",
+      "CAUTIOUS": "5",
+      "SUPPORTIVE": "1",
+      "INSPIRING": "0"
+    }
+  }
+},{
+  "_id": 80,
+  "studentId": 89,
+  "personalityType": "ESTP",
+  "thinkingOrientation": {
+    "analyticalIndex": "62.5",
+    "technicalIndex": "62.5",
+    "creativeIndex": "75.0",
+    "peopleOrientation": {
+      "INSPIRING": "3",
+      "CAUTIOUS": "0",
+      "DOMINANT": "0",
+      "SUPPORTIVE": "5"
+    }
+  }
+},{
+  "_id": 82,
+  "studentId": 90,
+  "personalityType": "ESTP",
+  "thinkingOrientation": {
+    "analyticalIndex": "25.0",
+    "technicalIndex": "37.5",
+    "creativeIndex": "62.5",
+    "peopleOrientation": {
+      "CAUTIOUS": "1",
+      "DOMINANT": "1",
+      "INSPIRING": "5",
+      "SUPPORTIVE": "1"
+    }
+  }
+},{
+  "_id": 83,
+  "studentId": 96,
+  "personalityType": "ISFP"
+},{
+  "_id": 84,
+  "studentId": 97,
+  "personalityType": "ISTP",
+  "thinkingOrientation": {
+    "analyticalIndex": "75.0",
+    "technicalIndex": "75.0",
+    "creativeIndex": "75.0",
+    "peopleOrientation": {
+      "CAUTIOUS": "6",
+      "DOMINANT": "1",
+      "INSPIRING": "1",
+      "SUPPORTIVE": "0"
+    }
+  }
+},{
+  "_id": 85,
+  "studentId": 101,
+  "personalityType": "ENTP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 100
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 100
+    },
+    {
+      "subject": "CIVICS",
+      "score": 100
+    },
+    {
+      "subject": "HISTORY",
+      "score": 100
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 100
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 75
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 100
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 100
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "87.5",
+    "technicalIndex": "62.5",
+    "creativeIndex": "62.5",
+    "peopleOrientation": {
+      "INSPIRING": "5",
+      "SUPPORTIVE": "1",
+      "CAUTIOUS": "2",
+      "DOMINANT": "0"
+    }
+  }
+},{
+  "_id": 86,
+  "studentId": 103,
+  "personalityType": "ENTJ",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 75
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 100
+    },
+    {
+      "subject": "CIVICS",
+      "score": 75
+    },
+    {
+      "subject": "HISTORY",
+      "score": 50
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 75
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 50
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 75
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 25
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "62.5",
+    "technicalIndex": "50.0",
+    "creativeIndex": "50.0",
+    "peopleOrientation": {
+      "INSPIRING": "2",
+      "DOMINANT": "1",
+      "SUPPORTIVE": "2",
+      "CAUTIOUS": "2"
+    }
+  }
+},{
+  "_id": 87,
+  "studentId": 102,
+  "personalityType": "ENTP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 75
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 100
+    },
+    {
+      "subject": "CIVICS",
+      "score": 100
+    },
+    {
+      "subject": "HISTORY",
+      "score": 75
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 100
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 100
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 50
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 50
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "75.0",
+    "technicalIndex": "87.5",
+    "creativeIndex": "75.0",
+    "peopleOrientation": {
+      "DOMINANT": "0",
+      "SUPPORTIVE": "3",
+      "INSPIRING": "4",
+      "CAUTIOUS": "1"
+    }
+  }
+},{
+  "_id": 89,
+  "studentId": 120,
+  "personalityType": "ISTP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 100
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 100
+    },
+    {
+      "subject": "CIVICS",
+      "score": 50
+    },
+    {
+      "subject": "HISTORY",
+      "score": 25
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 75
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 100
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 75
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 0
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "0.0",
+    "technicalIndex": "0.0",
+    "creativeIndex": "25.0",
+    "peopleOrientation": {
+      "INSPIRING": "0",
+      "DOMINANT": "0",
+      "CAUTIOUS": "0",
+      "SUPPORTIVE": "0"
+    }
+  }
+},{
+  "_id": 90,
+  "studentId": 121,
+  "personalityType": "ESTP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 100
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 100
+    },
+    {
+      "subject": "CIVICS",
+      "score": 75
+    },
+    {
+      "subject": "HISTORY",
+      "score": 100
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 100
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 75
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 100
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 50
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "50.0",
+    "technicalIndex": "25.0",
+    "creativeIndex": "62.5",
+    "peopleOrientation": {
+      "INSPIRING": "1",
+      "DOMINANT": "2",
+      "CAUTIOUS": "0",
+      "SUPPORTIVE": "5"
+    }
+  }
+},{
+  "_id": 91,
+  "studentId": 122,
+  "personalityType": "ENTP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 100
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 100
+    },
+    {
+      "subject": "CIVICS",
+      "score": 75
+    },
+    {
+      "subject": "HISTORY",
+      "score": 100
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 100
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 100
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 100
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 0
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "87.5",
+    "technicalIndex": "62.5",
+    "creativeIndex": "62.5",
+    "peopleOrientation": {
+      "INSPIRING": "4",
+      "DOMINANT": "1",
+      "CAUTIOUS": "3",
+      "SUPPORTIVE": "0"
+    }
+  }
+},{
+  "_id": 92,
+  "studentId": 123,
+  "personalityType": "INTP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 75
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 75
+    },
+    {
+      "subject": "CIVICS",
+      "score": 50
+    },
+    {
+      "subject": "HISTORY",
+      "score": 50
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 75
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 50
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 100
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 25
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "37.5",
+    "technicalIndex": "12.5",
+    "creativeIndex": "37.5",
+    "peopleOrientation": {
+      "INSPIRING": "0",
+      "DOMINANT": "5",
+      "CAUTIOUS": "2",
+      "SUPPORTIVE": "0"
+    }
+  }
+},{
+  "_id": 93,
+  "studentId": 125,
+  "personalityType": "ISTP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 75
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 100
+    },
+    {
+      "subject": "CIVICS",
+      "score": 50
+    },
+    {
+      "subject": "HISTORY",
+      "score": 75
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 100
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 75
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 100
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 0
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "37.5",
+    "technicalIndex": "37.5",
+    "creativeIndex": "50.0",
+    "peopleOrientation": {
+      "INSPIRING": "2",
+      "DOMINANT": "2",
+      "CAUTIOUS": "1",
+      "SUPPORTIVE": "3"
+    }
+  }
+},{
+  "_id": 94,
+  "studentId": -127,
+  "personalityType": "ENFP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 75
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 50
+    },
+    {
+      "subject": "CIVICS",
+      "score": 75
+    },
+    {
+      "subject": "HISTORY",
+      "score": 75
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 75
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 100
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 75
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 0
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "25.0",
+    "technicalIndex": "25.0",
+    "creativeIndex": "37.5",
+    "peopleOrientation": {
+      "INSPIRING": "5",
+      "DOMINANT": "1",
+      "CAUTIOUS": "2",
+      "SUPPORTIVE": "0"
+    }
+  }
+},{
+  "_id": 95,
+  "studentId": -129,
+  "personalityType": "ENTJ",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 100
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 50
+    },
+    {
+      "subject": "CIVICS",
+      "score": 50
+    },
+    {
+      "subject": "HISTORY",
+      "score": 75
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 100
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 50
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 100
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 0
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "75.0",
+    "technicalIndex": "0.0",
+    "creativeIndex": "75.0",
+    "peopleOrientation": {
+      "INSPIRING": "1",
+      "DOMINANT": "3",
+      "CAUTIOUS": "2",
+      "SUPPORTIVE": "2"
+    }
+  }
+},{
+  "_id": 96,
+  "studentId": 130,
+  "personalityType": "ESTP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 75
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 100
+    },
+    {
+      "subject": "CIVICS",
+      "score": 75
+    },
+    {
+      "subject": "HISTORY",
+      "score": 100
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 75
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 100
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 50
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 0
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "62.5",
+    "technicalIndex": "25.0",
+    "creativeIndex": "50.0",
+    "peopleOrientation": {
+      "INSPIRING": "3",
+      "DOMINANT": "1",
+      "CAUTIOUS": "3",
+      "SUPPORTIVE": "1"
+    }
+  }
+},{
+  "_id": 97,
+  "studentId": -131,
+  "personalityType": "ENTP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 50
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 75
+    },
+    {
+      "subject": "CIVICS",
+      "score": 50
+    },
+    {
+      "subject": "HISTORY",
+      "score": 25
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 75
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 75
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 100
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 0
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "50.0",
+    "technicalIndex": "37.5",
+    "creativeIndex": "62.5",
+    "peopleOrientation": {
+      "INSPIRING": "1",
+      "DOMINANT": "2",
+      "CAUTIOUS": "2",
+      "SUPPORTIVE": "2"
+    }
+  }
+},{
+  "_id": 98,
+  "studentId": 132,
+  "personalityType": "ESTP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 100
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 100
+    },
+    {
+      "subject": "CIVICS",
+      "score": 100
+    },
+    {
+      "subject": "HISTORY",
+      "score": 75
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 100
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 100
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 100
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 0
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "62.5",
+    "technicalIndex": "37.5",
+    "creativeIndex": "25.0",
+    "peopleOrientation": {
+      "INSPIRING": "2",
+      "DOMINANT": "0",
+      "CAUTIOUS": "3",
+      "SUPPORTIVE": "3"
+    }
+  }
+},{
+  "_id": 99,
+  "studentId": 133,
+  "personalityType": "ESTP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 100
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 75
+    },
+    {
+      "subject": "CIVICS",
+      "score": 75
+    },
+    {
+      "subject": "HISTORY",
+      "score": 100
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 100
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 75
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 100
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 25
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "62.5",
+    "technicalIndex": "37.5",
+    "creativeIndex": "75.0",
+    "peopleOrientation": {
+      "INSPIRING": "4",
+      "DOMINANT": "1",
+      "CAUTIOUS": "2",
+      "SUPPORTIVE": "1"
+    }
+  }
+},{
+  "_id": 100,
+  "studentId": 99,
+  "personalityType": "ESFP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 100
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 100
+    },
+    {
+      "subject": "CIVICS",
+      "score": 100
+    },
+    {
+      "subject": "HISTORY",
+      "score": 100
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 100
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 100
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 100
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 100
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "75.0",
+    "technicalIndex": "50.0",
+    "creativeIndex": "75.0",
+    "peopleOrientation": {
+      "SUPPORTIVE": "2",
+      "CAUTIOUS": "3",
+      "INSPIRING": "2",
+      "DOMINANT": "1"
+    }
+  }
+},{
+  "_id": 101,
+  "studentId": -126,
+  "personalityType": "ENTJ",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 75
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 50
+    },
+    {
+      "subject": "CIVICS",
+      "score": 50
+    },
+    {
+      "subject": "HISTORY",
+      "score": 75
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 100
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 75
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 75
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 50
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "37.5",
+    "technicalIndex": "37.5",
+    "creativeIndex": "75.0",
+    "peopleOrientation": {
+      "SUPPORTIVE": "3",
+      "CAUTIOUS": "2",
+      "INSPIRING": "1",
+      "DOMINANT": "2"
+    }
+  }
+},{
+  "_id": 102,
+  "studentId": 128,
+  "personalityType": "ESTP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 75
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 75
+    },
+    {
+      "subject": "CIVICS",
+      "score": 75
+    },
+    {
+      "subject": "HISTORY",
+      "score": 75
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 75
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 100
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 100
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 25
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "50.0",
+    "technicalIndex": "75.0",
+    "creativeIndex": "62.5",
+    "peopleOrientation": {
+      "SUPPORTIVE": "4",
+      "CAUTIOUS": "3",
+      "INSPIRING": "1",
+      "DOMINANT": "0"
+    }
+  }
+},{
+  "_id": 103,
+  "studentId": 136,
+  "personalityType": "ENTP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 75
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 100
+    },
+    {
+      "subject": "CIVICS",
+      "score": 100
+    },
+    {
+      "subject": "HISTORY",
+      "score": 75
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 100
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 100
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 100
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 25
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "75.0",
+    "technicalIndex": "75.0",
+    "creativeIndex": "62.5",
+    "peopleOrientation": {
+      "DOMINANT": "2",
+      "SUPPORTIVE": "4",
+      "INSPIRING": "2",
+      "CAUTIOUS": "0"
+    }
+  }
+},{
+  "_id": 104,
+  "studentId": -135,
+  "personalityType": "INTP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 75
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 75
+    },
+    {
+      "subject": "CIVICS",
+      "score": 50
+    },
+    {
+      "subject": "HISTORY",
+      "score": 50
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 25
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 50
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 75
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 0
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "50.0",
+    "technicalIndex": "12.5",
+    "creativeIndex": "37.5",
+    "peopleOrientation": {
+      "DOMINANT": "2",
+      "CAUTIOUS": "2",
+      "SUPPORTIVE": "2",
+      "INSPIRING": "2"
+    }
+  }
+},{
+  "_id": 105,
+  "studentId": 140,
+  "personalityType": "INTP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 100
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 75
+    },
+    {
+      "subject": "CIVICS",
+      "score": 25
+    },
+    {
+      "subject": "HISTORY",
+      "score": 50
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 100
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 100
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 100
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 0
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "50.0",
+    "technicalIndex": "25.0",
+    "creativeIndex": "62.5",
+    "peopleOrientation": {
+      "DOMINANT": "2",
+      "CAUTIOUS": "4",
+      "SUPPORTIVE": "1",
+      "INSPIRING": "1"
+    }
+  }
+},{
+  "_id": 106,
+  "studentId": 124,
+  "personalityType": "ESTJ",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 50
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 50
+    },
+    {
+      "subject": "CIVICS",
+      "score": 100
+    },
+    {
+      "subject": "HISTORY",
+      "score": 25
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 100
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 50
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 100
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 0
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "25.0",
+    "technicalIndex": "12.5",
+    "creativeIndex": "37.5",
+    "peopleOrientation": {
+      "SUPPORTIVE": "1",
+      "CAUTIOUS": "0",
+      "INSPIRING": "6",
+      "DOMINANT": "1"
+    }
+  }
+},{
+  "_id": 107,
+  "studentId": 105,
+  "personalityType": "ENFP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 75
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 75
+    },
+    {
+      "subject": "CIVICS",
+      "score": 100
+    },
+    {
+      "subject": "HISTORY",
+      "score": 75
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 50
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 50
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 75
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 25
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "37.5",
+    "technicalIndex": "37.5",
+    "creativeIndex": "37.5",
+    "peopleOrientation": {
+      "SUPPORTIVE": "2",
+      "DOMINANT": "1",
+      "INSPIRING": "4",
+      "CAUTIOUS": "1"
+    }
+  }
+},{
+  "_id": 108,
+  "studentId": 144,
+  "personalityType": "ESTP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 75
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 100
+    },
+    {
+      "subject": "CIVICS",
+      "score": 100
+    },
+    {
+      "subject": "HISTORY",
+      "score": 50
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 100
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 100
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 75
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 100
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "87.5",
+    "technicalIndex": "87.5",
+    "creativeIndex": "75.0",
+    "peopleOrientation": {
+      "INSPIRING": "2",
+      "CAUTIOUS": "2",
+      "DOMINANT": "3",
+      "SUPPORTIVE": "1"
+    }
+  }
+},{
+  "_id": 109,
+  "studentId": 151,
+  "personalityType": "ESTP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 100
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 50
+    },
+    {
+      "subject": "CIVICS",
+      "score": 75
+    },
+    {
+      "subject": "HISTORY",
+      "score": 50
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 100
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 50
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 100
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 25
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "75.0",
+    "technicalIndex": "0.0",
+    "creativeIndex": "62.5",
+    "peopleOrientation": {
+      "INSPIRING": "1",
+      "CAUTIOUS": "3",
+      "DOMINANT": "2",
+      "SUPPORTIVE": "2"
+    }
+  }
+},{
+  "_id": 110,
+  "studentId": 147,
+  "personalityType": "INTJ",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 100
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 100
+    },
+    {
+      "subject": "CIVICS",
+      "score": 100
+    },
+    {
+      "subject": "HISTORY",
+      "score": 50
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 100
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 100
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 100
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 75
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "75.0",
+    "technicalIndex": "37.5",
+    "creativeIndex": "62.5",
+    "peopleOrientation": {
+      "CAUTIOUS": "1",
+      "DOMINANT": "3",
+      "INSPIRING": "1",
+      "SUPPORTIVE": "3"
+    }
+  }
+},{
+  "_id": 111,
+  "studentId": 154,
+  "personalityType": "ENTP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 100
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 100
+    },
+    {
+      "subject": "CIVICS",
+      "score": 50
+    },
+    {
+      "subject": "HISTORY",
+      "score": 50
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 100
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 75
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 75
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 75
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "75.0",
+    "technicalIndex": "50.0",
+    "creativeIndex": "75.0",
+    "peopleOrientation": {
+      "SUPPORTIVE": "2",
+      "CAUTIOUS": "2",
+      "INSPIRING": "3",
+      "DOMINANT": "1"
+    }
+  }
+},{
+  "_id": 112,
+  "studentId": 153,
+  "personalityType": "ESFP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 100
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 100
+    },
+    {
+      "subject": "CIVICS",
+      "score": 100
+    },
+    {
+      "subject": "HISTORY",
+      "score": 50
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 75
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 100
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 100
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 50
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "75.0",
+    "technicalIndex": "37.5",
+    "creativeIndex": "62.5",
+    "peopleOrientation": {
+      "CAUTIOUS": "0",
+      "SUPPORTIVE": "1",
+      "DOMINANT": "2",
+      "INSPIRING": "5"
+    }
+  }
+},{
+  "_id": 113,
+  "studentId": 159,
+  "personalityType": "INTP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 50
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 50
+    },
+    {
+      "subject": "CIVICS",
+      "score": 25
+    },
+    {
+      "subject": "HISTORY",
+      "score": 75
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 75
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 75
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 75
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 0
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "50.0",
+    "technicalIndex": "0.0",
+    "creativeIndex": "62.5",
+    "peopleOrientation": {
+      "DOMINANT": "2",
+      "INSPIRING": "1",
+      "SUPPORTIVE": "4",
+      "CAUTIOUS": "1"
+    }
+  }
+},{
+  "_id": 114,
+  "studentId": 163,
+  "personalityType": "ENTP"
+},{
+  "_id": 116,
+  "studentId": 162,
+  "personalityType": "INTP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 75
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 100
+    },
+    {
+      "subject": "CIVICS",
+      "score": 100
+    },
+    {
+      "subject": "HISTORY",
+      "score": 50
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 75
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 100
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 75
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 25
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "75.0",
+    "technicalIndex": "62.5",
+    "creativeIndex": "75.0",
+    "peopleOrientation": {
+      "DOMINANT": "4",
+      "CAUTIOUS": "3",
+      "INSPIRING": "0",
+      "SUPPORTIVE": "1"
+    }
+  }
+},{
+  "_id": 117,
+  "studentId": 161,
+  "personalityType": "ESTJ",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 100
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 75
+    },
+    {
+      "subject": "CIVICS",
+      "score": 100
+    },
+    {
+      "subject": "HISTORY",
+      "score": 75
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 100
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 100
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 100
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 0
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "37.5",
+    "technicalIndex": "37.5",
+    "creativeIndex": "37.5",
+    "peopleOrientation": {
+      "INSPIRING": "1",
+      "CAUTIOUS": "4",
+      "DOMINANT": "0",
+      "SUPPORTIVE": "3"
+    }
+  }
+},{
+  "_id": 118,
+  "studentId": 172,
+  "personalityType": "ENTJ",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 75
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 100
+    },
+    {
+      "subject": "CIVICS",
+      "score": 100
+    },
+    {
+      "subject": "HISTORY",
+      "score": 25
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 100
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 100
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 100
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 50
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "50.0",
+    "technicalIndex": "50.0",
+    "creativeIndex": "62.5",
+    "peopleOrientation": {
+      "SUPPORTIVE": "0",
+      "DOMINANT": "4",
+      "INSPIRING": "2",
+      "CAUTIOUS": "2"
+    }
+  }
+},{
+  "_id": 120,
+  "studentId": 174,
+  "personalityType": "ENTP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 75
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 100
+    },
+    {
+      "subject": "CIVICS",
+      "score": 75
+    },
+    {
+      "subject": "HISTORY",
+      "score": 50
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 100
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 100
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 100
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 0
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "50.0",
+    "technicalIndex": "50.0",
+    "creativeIndex": "62.5",
+    "peopleOrientation": {
+      "INSPIRING": "1",
+      "DOMINANT": "4",
+      "SUPPORTIVE": "2",
+      "CAUTIOUS": "1"
+    }
+  }
+},{
+  "_id": 122,
+  "studentId": 175,
+  "personalityType": "INTP"
+},{
+  "_id": 123,
+  "studentId": 177,
+  "personalityType": "ISTP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 75
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 100
+    },
+    {
+      "subject": "CIVICS",
+      "score": 100
+    },
+    {
+      "subject": "HISTORY",
+      "score": 75
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 100
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 100
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 75
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 0
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "50.0",
+    "technicalIndex": "12.5",
+    "creativeIndex": "50.0",
+    "peopleOrientation": {
+      "CAUTIOUS": "0",
+      "INSPIRING": "0",
+      "SUPPORTIVE": "0",
+      "DOMINANT": "0"
+    }
+  }
+},{
+  "_id": 124,
+  "studentId": 203,
+  "personalityType": "ENFP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 50
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 100
+    },
+    {
+      "subject": "CIVICS",
+      "score": 75
+    },
+    {
+      "subject": "HISTORY",
+      "score": 100
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 75
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 50
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 75
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 75
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "62.5",
+    "technicalIndex": "100.0",
+    "creativeIndex": "62.5",
+    "peopleOrientation": {
+      "CAUTIOUS": "2",
+      "SUPPORTIVE": "2",
+      "DOMINANT": "1",
+      "INSPIRING": "3"
+    }
+  }
+},{
+  "_id": 125,
+  "studentId": 208,
+  "personalityType": "ENTP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 75
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 75
+    },
+    {
+      "subject": "CIVICS",
+      "score": 75
+    },
+    {
+      "subject": "HISTORY",
+      "score": 75
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 75
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 100
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 50
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 25
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "87.5",
+    "technicalIndex": "75.0",
+    "creativeIndex": "75.0",
+    "peopleOrientation": {
+      "INSPIRING": "1",
+      "CAUTIOUS": "2",
+      "DOMINANT": "1",
+      "SUPPORTIVE": "4"
+    }
+  }
+},{
+  "_id": 126,
+  "studentId": 227,
+  "personalityType": "ENTP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 50
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 50
+    },
+    {
+      "subject": "CIVICS",
+      "score": 0
+    },
+    {
+      "subject": "HISTORY",
+      "score": 50
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 50
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 75
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 75
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 0
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "50.0",
+    "technicalIndex": "62.5",
+    "creativeIndex": "50.0",
+    "peopleOrientation": {
+      "DOMINANT": "3",
+      "CAUTIOUS": "1",
+      "INSPIRING": "4",
+      "SUPPORTIVE": "0"
+    }
+  }
+},{
+  "_id": 127,
+  "studentId": 226,
+  "personalityType": "ESFJ",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 25
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 0
+    },
+    {
+      "subject": "CIVICS",
+      "score": 0
+    },
+    {
+      "subject": "HISTORY",
+      "score": 25
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 50
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 75
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 50
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 0
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "37.5",
+    "technicalIndex": "37.5",
+    "creativeIndex": "50.0",
+    "peopleOrientation": {
+      "DOMINANT": "2",
+      "CAUTIOUS": "1",
+      "INSPIRING": "3",
+      "SUPPORTIVE": "2"
+    }
+  }
+},{
+  "_id": 128,
+  "studentId": 225,
+  "personalityType": "ISFJ",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 75
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 25
+    },
+    {
+      "subject": "CIVICS",
+      "score": 25
+    },
+    {
+      "subject": "HISTORY",
+      "score": 50
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 50
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 50
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 75
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 0
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "37.5",
+    "technicalIndex": "0.0",
+    "creativeIndex": "62.5",
+    "peopleOrientation": {
+      "DOMINANT": "1",
+      "CAUTIOUS": "2",
+      "INSPIRING": "3",
+      "SUPPORTIVE": "0"
+    }
+  }
+},{
+  "_id": 129,
+  "studentId": 224,
+  "personalityType": "INFJ",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 100
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 50
+    },
+    {
+      "subject": "CIVICS",
+      "score": 50
+    },
+    {
+      "subject": "HISTORY",
+      "score": 25
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 75
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 50
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 75
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 25
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "50.0",
+    "technicalIndex": "25.0",
+    "creativeIndex": "25.0",
+    "peopleOrientation": {
+      "CAUTIOUS": "3",
+      "SUPPORTIVE": "1",
+      "INSPIRING": "3",
+      "DOMINANT": "1"
+    }
+  }
+},{
+  "_id": 130,
+  "studentId": 223,
+  "personalityType": "ISTP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 100
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 100
+    },
+    {
+      "subject": "CIVICS",
+      "score": 50
+    },
+    {
+      "subject": "HISTORY",
+      "score": 50
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 100
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 75
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 100
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 25
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "62.5",
+    "technicalIndex": "37.5",
+    "creativeIndex": "50.0",
+    "peopleOrientation": {
+      "CAUTIOUS": "3",
+      "SUPPORTIVE": "1",
+      "INSPIRING": "2",
+      "DOMINANT": "2"
+    }
+  }
+},{
+  "_id": 131,
+  "studentId": 222,
+  "personalityType": "ESTJ",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 100
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 50
+    },
+    {
+      "subject": "CIVICS",
+      "score": 50
+    },
+    {
+      "subject": "HISTORY",
+      "score": 25
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 75
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 100
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 75
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 0
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "62.5",
+    "technicalIndex": "37.5",
+    "creativeIndex": "62.5",
+    "peopleOrientation": {
+      "CAUTIOUS": "2",
+      "SUPPORTIVE": "3",
+      "INSPIRING": "2",
+      "DOMINANT": "1"
+    }
+  }
+},{
+  "_id": 132,
+  "studentId": 221,
+  "personalityType": "ESFJ",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 75
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 0
+    },
+    {
+      "subject": "CIVICS",
+      "score": 75
+    },
+    {
+      "subject": "HISTORY",
+      "score": 25
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 50
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 50
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 50
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 50
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "25.0",
+    "technicalIndex": "37.5",
+    "creativeIndex": "50.0",
+    "peopleOrientation": {
+      "CAUTIOUS": "0",
+      "SUPPORTIVE": "1",
+      "INSPIRING": "5",
+      "DOMINANT": "2"
+    }
+  }
+},{
+  "_id": 133,
+  "studentId": 219,
+  "personalityType": "ESTP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 75
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 25
+    },
+    {
+      "subject": "CIVICS",
+      "score": 75
+    },
+    {
+      "subject": "HISTORY",
+      "score": 50
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 50
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 25
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 50
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 50
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "62.5",
+    "technicalIndex": "62.5",
+    "creativeIndex": "62.5",
+    "peopleOrientation": {
+      "CAUTIOUS": "2",
+      "SUPPORTIVE": "0",
+      "INSPIRING": "3",
+      "DOMINANT": "3"
+    }
+  }
+},{
+  "_id": 134,
+  "studentId": 218,
+  "personalityType": "ISTP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 75
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 75
+    },
+    {
+      "subject": "CIVICS",
+      "score": 50
+    },
+    {
+      "subject": "HISTORY",
+      "score": 75
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 100
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 100
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 50
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 25
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "62.5",
+    "technicalIndex": "12.5",
+    "creativeIndex": "62.5",
+    "peopleOrientation": {
+      "CAUTIOUS": "2",
+      "SUPPORTIVE": "3",
+      "INSPIRING": "2",
+      "DOMINANT": "1"
+    }
+  }
+},{
+  "_id": 135,
+  "studentId": 217,
+  "personalityType": "ENTJ",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 100
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 75
+    },
+    {
+      "subject": "CIVICS",
+      "score": 50
+    },
+    {
+      "subject": "HISTORY",
+      "score": 75
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 100
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 100
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 100
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 25
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "75.0",
+    "technicalIndex": "37.5",
+    "creativeIndex": "62.5",
+    "peopleOrientation": {
+      "CAUTIOUS": "2",
+      "SUPPORTIVE": "2",
+      "INSPIRING": "3",
+      "DOMINANT": "1"
+    }
+  }
+},{
+  "_id": 136,
+  "studentId": 216,
+  "personalityType": "ESTP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 100
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 75
+    },
+    {
+      "subject": "CIVICS",
+      "score": 50
+    },
+    {
+      "subject": "HISTORY",
+      "score": 0
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 75
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 75
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 75
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 0
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "37.5",
+    "technicalIndex": "37.5",
+    "creativeIndex": "62.5",
+    "peopleOrientation": {
+      "CAUTIOUS": "1",
+      "SUPPORTIVE": "3",
+      "INSPIRING": "3",
+      "DOMINANT": "1"
+    }
+  }
+},{
+  "_id": 137,
+  "studentId": 215,
+  "personalityType": "ESTP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 75
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 75
+    },
+    {
+      "subject": "CIVICS",
+      "score": 50
+    },
+    {
+      "subject": "HISTORY",
+      "score": 75
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 75
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 100
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 75
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 50
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "62.5",
+    "technicalIndex": "62.5",
+    "creativeIndex": "37.5",
+    "peopleOrientation": {
+      "CAUTIOUS": "2",
+      "SUPPORTIVE": "1",
+      "INSPIRING": "1",
+      "DOMINANT": "4"
+    }
+  }
+},{
+  "_id": 138,
+  "studentId": 214,
+  "personalityType": "INFJ",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 75
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 50
+    },
+    {
+      "subject": "CIVICS",
+      "score": 75
+    },
+    {
+      "subject": "HISTORY",
+      "score": 75
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 75
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 100
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 100
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 50
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "62.5",
+    "technicalIndex": "12.5",
+    "creativeIndex": "62.5",
+    "peopleOrientation": {
+      "CAUTIOUS": "3",
+      "SUPPORTIVE": "1",
+      "INSPIRING": "0",
+      "DOMINANT": "4"
+    }
+  }
+},{
+  "_id": 139,
+  "studentId": 207,
+  "personalityType": "ESTP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 25
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 75
+    },
+    {
+      "subject": "CIVICS",
+      "score": 50
+    },
+    {
+      "subject": "HISTORY",
+      "score": 100
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 100
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 100
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 100
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 25
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "75.0",
+    "technicalIndex": "12.5",
+    "creativeIndex": "62.5",
+    "peopleOrientation": {
+      "CAUTIOUS": "1",
+      "DOMINANT": "0",
+      "SUPPORTIVE": "3",
+      "INSPIRING": "4"
+    }
+  }
+},{
+  "_id": 140,
+  "studentId": 220,
+  "personalityType": "ENTJ",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 50
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 100
+    },
+    {
+      "subject": "CIVICS",
+      "score": 50
+    },
+    {
+      "subject": "HISTORY",
+      "score": 100
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 50
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 75
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 75
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 50
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "37.5",
+    "technicalIndex": "37.5",
+    "creativeIndex": "62.5",
+    "peopleOrientation": {
+      "SUPPORTIVE": "3",
+      "DOMINANT": "2",
+      "INSPIRING": "3",
+      "CAUTIOUS": "0"
+    }
+  }
+},{
+  "_id": 141,
+  "studentId": 212,
+  "personalityType": "ENTP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 100
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 100
+    },
+    {
+      "subject": "CIVICS",
+      "score": 100
+    },
+    {
+      "subject": "HISTORY",
+      "score": 75
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 100
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 75
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 50
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 0
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "62.5",
+    "technicalIndex": "75.0",
+    "creativeIndex": "75.0",
+    "peopleOrientation": {
+      "INSPIRING": "0",
+      "SUPPORTIVE": "3",
+      "DOMINANT": "5",
+      "CAUTIOUS": "0"
+    }
+  }
+},{
+  "_id": 142,
+  "studentId": 229,
+  "personalityType": "ESTP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 75
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 75
+    },
+    {
+      "subject": "CIVICS",
+      "score": 50
+    },
+    {
+      "subject": "HISTORY",
+      "score": 75
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 75
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 100
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 50
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 25
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "50.0",
+    "technicalIndex": "62.5",
+    "creativeIndex": "50.0",
+    "peopleOrientation": {
+      "CAUTIOUS": "2",
+      "INSPIRING": "2",
+      "DOMINANT": "0",
+      "SUPPORTIVE": "4"
+    }
+  }
+},{
+  "_id": 143,
+  "studentId": 220,
+  "personalityType": "ENTJ",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 50
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 100
+    },
+    {
+      "subject": "CIVICS",
+      "score": 50
+    },
+    {
+      "subject": "HISTORY",
+      "score": 100
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 50
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 75
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 75
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 50
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "37.5",
+    "technicalIndex": "37.5",
+    "creativeIndex": "62.5",
+    "peopleOrientation": {
+      "CAUTIOUS": "0",
+      "INSPIRING": "3",
+      "DOMINANT": "2",
+      "SUPPORTIVE": "3"
+    }
+  }
+},{
+  "_id": 144,
+  "studentId": 211,
+  "personalityType": "ESFJ",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 75
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 75
+    },
+    {
+      "subject": "CIVICS",
+      "score": 50
+    },
+    {
+      "subject": "HISTORY",
+      "score": 50
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 75
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 75
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 75
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 25
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "25.0",
+    "technicalIndex": "12.5",
+    "creativeIndex": "62.5",
+    "peopleOrientation": {
+      "CAUTIOUS": "1",
+      "INSPIRING": "5",
+      "DOMINANT": "1",
+      "SUPPORTIVE": "0"
+    }
+  }
+},{
+  "_id": 145,
+  "studentId": 230,
+  "personalityType": "ESTP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 75
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 75
+    },
+    {
+      "subject": "CIVICS",
+      "score": 50
+    },
+    {
+      "subject": "HISTORY",
+      "score": 50
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 100
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 100
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 75
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 25
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "62.5",
+    "technicalIndex": "50.0",
+    "creativeIndex": "50.0",
+    "peopleOrientation": {
+      "DOMINANT": "3",
+      "CAUTIOUS": "0",
+      "INSPIRING": "2",
+      "SUPPORTIVE": "3"
+    }
+  }
+},{
+  "_id": 146,
+  "studentId": 238,
+  "personalityType": "ESTP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 75
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 75
+    },
+    {
+      "subject": "CIVICS",
+      "score": 25
+    },
+    {
+      "subject": "HISTORY",
+      "score": 100
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 100
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 75
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 100
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 0
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "75.0",
+    "technicalIndex": "12.5",
+    "creativeIndex": "37.5",
+    "peopleOrientation": {
+      "CAUTIOUS": "0",
+      "SUPPORTIVE": "2",
+      "DOMINANT": "3",
+      "INSPIRING": "3"
+    }
+  }
+},{
+  "_id": 147,
+  "studentId": 239,
+  "personalityType": "ESTP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 100
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 100
+    },
+    {
+      "subject": "CIVICS",
+      "score": 25
+    },
+    {
+      "subject": "HISTORY",
+      "score": 75
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 100
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 100
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 100
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 0
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "75.0",
+    "technicalIndex": "50.0",
+    "creativeIndex": "50.0",
+    "peopleOrientation": {
+      "CAUTIOUS": "1",
+      "DOMINANT": "2",
+      "INSPIRING": "3",
+      "SUPPORTIVE": "2"
+    }
+  }
+},{
+  "_id": 148,
+  "studentId": 127,
+  "personalityType": "ESTP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 75
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 75
+    },
+    {
+      "subject": "CIVICS",
+      "score": 75
+    },
+    {
+      "subject": "HISTORY",
+      "score": 75
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 100
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 75
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 75
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 0
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "75.0",
+    "technicalIndex": "12.5",
+    "creativeIndex": "37.5",
+    "peopleOrientation": {
+      "CAUTIOUS": "2",
+      "DOMINANT": "0",
+      "INSPIRING": "1",
+      "SUPPORTIVE": "4"
+    }
+  }
+},{
+  "_id": 149,
+  "studentId": 126,
+  "personalityType": "ENTJ",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 100
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 100
+    },
+    {
+      "subject": "CIVICS",
+      "score": 75
+    },
+    {
+      "subject": "HISTORY",
+      "score": 50
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 100
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 100
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 100
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 50
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "50.0",
+    "technicalIndex": "37.5",
+    "creativeIndex": "50.0",
+    "peopleOrientation": {
+      "CAUTIOUS": "0",
+      "DOMINANT": "1",
+      "INSPIRING": "3",
+      "SUPPORTIVE": "4"
+    }
+  }
+},{
+  "_id": 150,
+  "studentId": 242,
+  "personalityType": "ENTP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 100
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 100
+    },
+    {
+      "subject": "CIVICS",
+      "score": 50
+    },
+    {
+      "subject": "HISTORY",
+      "score": 100
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 75
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 25
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 100
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 25
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "50.0",
+    "technicalIndex": "12.5",
+    "creativeIndex": "50.0",
+    "peopleOrientation": {
+      "CAUTIOUS": "1",
+      "DOMINANT": "1",
+      "INSPIRING": "3",
+      "SUPPORTIVE": "2"
+    }
+  }
+},{
+  "_id": 151,
+  "studentId": 250,
+  "personalityType": "ENTP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 75
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 100
+    },
+    {
+      "subject": "CIVICS",
+      "score": 100
+    },
+    {
+      "subject": "HISTORY",
+      "score": 75
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 75
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 100
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 50
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 25
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "62.5",
+    "technicalIndex": "37.5",
+    "creativeIndex": "50.0",
+    "peopleOrientation": {
+      "INSPIRING": "5",
+      "CAUTIOUS": "1",
+      "SUPPORTIVE": "1",
+      "DOMINANT": "0"
+    }
+  }
+},{
+  "_id": 152,
+  "studentId": 251,
+  "personalityType": "ENTP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 100
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 75
+    },
+    {
+      "subject": "CIVICS",
+      "score": 75
+    },
+    {
+      "subject": "HISTORY",
+      "score": 100
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 100
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 100
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 75
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 75
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "87.5",
+    "technicalIndex": "75.0",
+    "creativeIndex": "75.0",
+    "peopleOrientation": {
+      "INSPIRING": "2",
+      "CAUTIOUS": "1",
+      "SUPPORTIVE": "2",
+      "DOMINANT": "3"
+    }
+  }
+},{
+  "_id": 153,
+  "studentId": 257,
+  "personalityType": "ENFP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 100
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 100
+    },
+    {
+      "subject": "CIVICS",
+      "score": 75
+    },
+    {
+      "subject": "HISTORY",
+      "score": 100
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 100
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 100
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 100
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 0
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "62.5",
+    "technicalIndex": "50.0",
+    "creativeIndex": "62.5",
+    "peopleOrientation": {
+      "INSPIRING": "3",
+      "CAUTIOUS": "3",
+      "SUPPORTIVE": "1",
+      "DOMINANT": "0"
+    }
+  }
+},{
+  "_id": 154,
+  "studentId": 259,
+  "personalityType": "ENTP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 100
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 100
+    },
+    {
+      "subject": "CIVICS",
+      "score": 75
+    },
+    {
+      "subject": "HISTORY",
+      "score": 75
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 75
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 100
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 100
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 25
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "75.0",
+    "technicalIndex": "37.5",
+    "creativeIndex": "75.0",
+    "peopleOrientation": {
+      "INSPIRING": "2",
+      "CAUTIOUS": "2",
+      "SUPPORTIVE": "2",
+      "DOMINANT": "2"
+    }
+  }
+},{
+  "_id": 155,
+  "studentId": 260,
+  "personalityType": "ENFP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 50
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 75
+    },
+    {
+      "subject": "CIVICS",
+      "score": 50
+    },
+    {
+      "subject": "HISTORY",
+      "score": 75
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 75
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 100
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 100
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 50
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "62.5",
+    "technicalIndex": "25.0",
+    "creativeIndex": "37.5",
+    "peopleOrientation": {
+      "INSPIRING": "1",
+      "CAUTIOUS": "0",
+      "SUPPORTIVE": "2",
+      "DOMINANT": "1"
+    }
+  }
+},{
+  "_id": 156,
+  "studentId": 265,
+  "personalityType": "INTP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 50
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 75
+    },
+    {
+      "subject": "CIVICS",
+      "score": 100
+    },
+    {
+      "subject": "HISTORY",
+      "score": 100
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 100
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 75
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 100
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 25
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "87.5",
+    "technicalIndex": "25.0",
+    "creativeIndex": "50.0",
+    "peopleOrientation": {
+      "INSPIRING": "1",
+      "CAUTIOUS": "1",
+      "SUPPORTIVE": "3",
+      "DOMINANT": "3"
+    }
+  }
+},{
+  "_id": 157,
+  "studentId": 270,
+  "personalityType": "ISFP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 100
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 100
+    },
+    {
+      "subject": "CIVICS",
+      "score": 75
+    },
+    {
+      "subject": "HISTORY",
+      "score": 75
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 75
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 100
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 100
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 100
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "75.0",
+    "technicalIndex": "62.5",
+    "creativeIndex": "75.0",
+    "peopleOrientation": {
+      "DOMINANT": "1",
+      "SUPPORTIVE": "4",
+      "CAUTIOUS": "2",
+      "INSPIRING": "0"
+    }
+  }
+},{
+  "_id": 158,
+  "studentId": 273,
+  "personalityType": "ESTJ",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 75
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 75
+    },
+    {
+      "subject": "CIVICS",
+      "score": 50
+    },
+    {
+      "subject": "HISTORY",
+      "score": 50
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 100
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 50
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 75
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 50
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "25.0",
+    "technicalIndex": "25.0",
+    "creativeIndex": "37.5",
+    "peopleOrientation": {
+      "DOMINANT": "0",
+      "SUPPORTIVE": "1",
+      "CAUTIOUS": "3",
+      "INSPIRING": "4"
+    }
+  }
+},{
+  "_id": 159,
+  "studentId": 274,
+  "personalityType": "ESTP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 100
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 100
+    },
+    {
+      "subject": "CIVICS",
+      "score": 25
+    },
+    {
+      "subject": "HISTORY",
+      "score": 50
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 50
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 75
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 75
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 25
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "62.5",
+    "technicalIndex": "37.5",
+    "creativeIndex": "62.5",
+    "peopleOrientation": {
+      "DOMINANT": "2",
+      "SUPPORTIVE": "2",
+      "CAUTIOUS": "2",
+      "INSPIRING": "2"
+    }
+  }
+},{
+  "_id": 160,
+  "studentId": 278,
+  "personalityType": "ENTJ",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 75
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 100
+    },
+    {
+      "subject": "CIVICS",
+      "score": 50
+    },
+    {
+      "subject": "HISTORY",
+      "score": 75
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 100
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 100
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 75
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 25
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "75.0",
+    "technicalIndex": "75.0",
+    "creativeIndex": "75.0",
+    "peopleOrientation": {
+      "DOMINANT": "4",
+      "SUPPORTIVE": "1",
+      "CAUTIOUS": "2",
+      "INSPIRING": "1"
+    }
+  }
+},{
+  "_id": 161,
+  "studentId": 280,
+  "personalityType": "ISTJ",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 100
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 100
+    },
+    {
+      "subject": "CIVICS",
+      "score": 100
+    },
+    {
+      "subject": "HISTORY",
+      "score": 100
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 75
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 100
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 75
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 25
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "75.0",
+    "technicalIndex": "62.5",
+    "creativeIndex": "62.5",
+    "peopleOrientation": {
+      "SUPPORTIVE": "3",
+      "DOMINANT": "2",
+      "CAUTIOUS": "1",
+      "INSPIRING": "2"
+    }
+  }
+},{
+  "_id": 162,
+  "studentId": 248,
+  "personalityType": "INFP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 50
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 50
+    },
+    {
+      "subject": "CIVICS",
+      "score": 25
+    },
+    {
+      "subject": "HISTORY",
+      "score": 75
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 75
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 75
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 50
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 0
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "25.0",
+    "technicalIndex": "0.0",
+    "creativeIndex": "37.5",
+    "peopleOrientation": {
+      "SUPPORTIVE": "0",
+      "INSPIRING": "0",
+      "CAUTIOUS": "0",
+      "DOMINANT": "0"
+    }
+  }
+},{
+  "_id": 163,
+  "studentId": 275,
+  "personalityType": "ENTP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 100
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 100
+    },
+    {
+      "subject": "CIVICS",
+      "score": 100
+    },
+    {
+      "subject": "HISTORY",
+      "score": 75
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 100
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 100
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 100
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 25
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "87.5",
+    "technicalIndex": "62.5",
+    "creativeIndex": "62.5",
+    "peopleOrientation": {
+      "SUPPORTIVE": "3",
+      "INSPIRING": "3",
+      "CAUTIOUS": "0",
+      "DOMINANT": "2"
+    }
+  }
+},{
+  "_id": 164,
+  "studentId": 131,
+  "personalityType": "ESTP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 100
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 75
+    },
+    {
+      "subject": "CIVICS",
+      "score": 75
+    },
+    {
+      "subject": "HISTORY",
+      "score": 75
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 100
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 75
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 75
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 0
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "25.0",
+    "technicalIndex": "25.0",
+    "creativeIndex": "50.0",
+    "peopleOrientation": {
+      "SUPPORTIVE": "2",
+      "INSPIRING": "4",
+      "CAUTIOUS": "1",
+      "DOMINANT": "1"
+    }
+  }
+},{
+  "_id": 165,
+  "studentId": 253,
+  "personalityType": "ISFJ",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 75
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 25
+    },
+    {
+      "subject": "CIVICS",
+      "score": 100
+    },
+    {
+      "subject": "HISTORY",
+      "score": 75
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 50
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 100
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 100
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 25
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "50.0",
+    "technicalIndex": "37.5",
+    "creativeIndex": "37.5",
+    "peopleOrientation": {
+      "SUPPORTIVE": "2",
+      "INSPIRING": "2",
+      "CAUTIOUS": "0",
+      "DOMINANT": "3"
+    }
+  }
+},{
+  "_id": 166,
+  "studentId": 282,
+  "personalityType": "ISFJ",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 100
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 100
+    },
+    {
+      "subject": "CIVICS",
+      "score": 75
+    },
+    {
+      "subject": "HISTORY",
+      "score": 100
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 100
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 100
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 100
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 50
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "50.0",
+    "technicalIndex": "62.5",
+    "creativeIndex": "75.0",
+    "peopleOrientation": {
+      "SUPPORTIVE": "3",
+      "INSPIRING": "2",
+      "CAUTIOUS": "3",
+      "DOMINANT": "0"
+    }
+  }
+},{
+  "_id": 167,
+  "studentId": 129,
+  "personalityType": "ENTJ",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 75
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 100
+    },
+    {
+      "subject": "CIVICS",
+      "score": 50
+    },
+    {
+      "subject": "HISTORY",
+      "score": 50
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 75
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 100
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 100
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 25
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "62.5",
+    "technicalIndex": "25.0",
+    "creativeIndex": "50.0",
+    "peopleOrientation": {
+      "SUPPORTIVE": "2",
+      "INSPIRING": "3",
+      "CAUTIOUS": "0",
+      "DOMINANT": "2"
+    }
+  }
+},{
+  "_id": 168,
+  "studentId": 231,
+  "personalityType": "INFJ",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 100
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 100
+    },
+    {
+      "subject": "CIVICS",
+      "score": 25
+    },
+    {
+      "subject": "HISTORY",
+      "score": 75
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 75
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 100
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 100
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 25
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "62.5",
+    "technicalIndex": "25.0",
+    "creativeIndex": "25.0",
+    "peopleOrientation": {
+      "SUPPORTIVE": "0",
+      "DOMINANT": "0",
+      "CAUTIOUS": "0",
+      "INSPIRING": "0"
+    }
+  }
+},{
+  "_id": 169,
+  "studentId": 235,
+  "personalityType": "ENTP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 100
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 100
+    },
+    {
+      "subject": "CIVICS",
+      "score": 75
+    },
+    {
+      "subject": "HISTORY",
+      "score": 75
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 100
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 75
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 100
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 25
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "62.5",
+    "technicalIndex": "12.5",
+    "creativeIndex": "62.5",
+    "peopleOrientation": {
+      "SUPPORTIVE": "1",
+      "DOMINANT": "2",
+      "CAUTIOUS": "3",
+      "INSPIRING": "2"
+    }
+  }
+},{
+  "_id": 170,
+  "studentId": 241,
+  "personalityType": "ESTP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 100
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 100
+    },
+    {
+      "subject": "CIVICS",
+      "score": 100
+    },
+    {
+      "subject": "HISTORY",
+      "score": 100
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 100
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 100
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 100
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 50
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "50.0",
+    "technicalIndex": "50.0",
+    "creativeIndex": "62.5",
+    "peopleOrientation": {
+      "SUPPORTIVE": "1",
+      "DOMINANT": "1",
+      "CAUTIOUS": "0",
+      "INSPIRING": "6"
+    }
+  }
+},{
+  "_id": 171,
+  "studentId": 245,
+  "personalityType": "ISFP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 75
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 100
+    },
+    {
+      "subject": "CIVICS",
+      "score": 25
+    },
+    {
+      "subject": "HISTORY",
+      "score": 75
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 100
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 100
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 75
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 0
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "37.5",
+    "technicalIndex": "25.0",
+    "creativeIndex": "50.0",
+    "peopleOrientation": {
+      "SUPPORTIVE": "2",
+      "DOMINANT": "2",
+      "CAUTIOUS": "1",
+      "INSPIRING": "3"
+    }
+  }
+},{
+  "_id": 172,
+  "studentId": 261,
+  "personalityType": "ENTP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 100
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 75
+    },
+    {
+      "subject": "CIVICS",
+      "score": 50
+    },
+    {
+      "subject": "HISTORY",
+      "score": 25
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 100
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 100
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 50
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 0
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "37.5",
+    "technicalIndex": "12.5",
+    "creativeIndex": "62.5",
+    "peopleOrientation": {
+      "SUPPORTIVE": "2",
+      "DOMINANT": "1",
+      "CAUTIOUS": "1",
+      "INSPIRING": "2"
+    }
+  }
+},{
+  "_id": 173,
+  "studentId": 277,
+  "personalityType": "ENTP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 100
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 75
+    },
+    {
+      "subject": "CIVICS",
+      "score": 75
+    },
+    {
+      "subject": "HISTORY",
+      "score": 50
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 75
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 100
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 75
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 50
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "12.5",
+    "technicalIndex": "0.0",
+    "creativeIndex": "62.5",
+    "peopleOrientation": {
+      "SUPPORTIVE": "3",
+      "DOMINANT": "1",
+      "CAUTIOUS": "0",
+      "INSPIRING": "3"
+    }
+  }
+},{
+  "_id": 174,
+  "studentId": 283,
+  "personalityType": "ESTP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 75
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 100
+    },
+    {
+      "subject": "CIVICS",
+      "score": 50
+    },
+    {
+      "subject": "HISTORY",
+      "score": 100
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 100
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 100
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 100
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 100
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "87.5",
+    "technicalIndex": "62.5",
+    "creativeIndex": "62.5",
+    "peopleOrientation": {
+      "SUPPORTIVE": "2",
+      "DOMINANT": "2",
+      "CAUTIOUS": "0",
+      "INSPIRING": "4"
+    }
+  }
+},{
+  "_id": 175,
+  "studentId": 284,
+  "personalityType": "ENFP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 100
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 100
+    },
+    {
+      "subject": "CIVICS",
+      "score": 75
+    },
+    {
+      "subject": "HISTORY",
+      "score": 100
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 75
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 50
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 100
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 75
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "87.5",
+    "technicalIndex": "62.5",
+    "creativeIndex": "75.0",
+    "peopleOrientation": {
+      "SUPPORTIVE": "3",
+      "DOMINANT": "2",
+      "CAUTIOUS": "2",
+      "INSPIRING": "1"
+    }
+  }
+},{
+  "_id": 176,
+  "studentId": 234,
+  "personalityType": "ESTP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 100
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 100
+    },
+    {
+      "subject": "CIVICS",
+      "score": 75
+    },
+    {
+      "subject": "HISTORY",
+      "score": 75
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 100
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 100
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 50
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 50
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "75.0",
+    "technicalIndex": "62.5",
+    "creativeIndex": "50.0",
+    "peopleOrientation": {
+      "INSPIRING": "3",
+      "DOMINANT": "3",
+      "SUPPORTIVE": "1",
+      "CAUTIOUS": "0"
+    }
+  }
+},{
+  "_id": 177,
+  "studentId": 237,
+  "personalityType": "INTP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 100
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 100
+    },
+    {
+      "subject": "CIVICS",
+      "score": 50
+    },
+    {
+      "subject": "HISTORY",
+      "score": 50
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 100
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 25
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 100
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 0
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "87.5",
+    "technicalIndex": "50.0",
+    "creativeIndex": "75.0",
+    "peopleOrientation": {
+      "INSPIRING": "1",
+      "DOMINANT": "1",
+      "SUPPORTIVE": "5",
+      "CAUTIOUS": "1"
+    }
+  }
+},{
+  "_id": 178,
+  "studentId": 244,
+  "personalityType": "ENTP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 100
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 100
+    },
+    {
+      "subject": "CIVICS",
+      "score": 75
+    },
+    {
+      "subject": "HISTORY",
+      "score": 100
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 100
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 100
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 100
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 75
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "75.0",
+    "technicalIndex": "37.5",
+    "creativeIndex": "75.0",
+    "peopleOrientation": {
+      "INSPIRING": "1",
+      "DOMINANT": "3",
+      "SUPPORTIVE": "4",
+      "CAUTIOUS": "0"
+    }
+  }
+},{
+  "_id": 179,
+  "studentId": 272,
+  "personalityType": "ISTP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 25
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 75
+    },
+    {
+      "subject": "CIVICS",
+      "score": 50
+    },
+    {
+      "subject": "HISTORY",
+      "score": 50
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 50
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 50
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 50
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 0
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "12.5",
+    "technicalIndex": "25.0",
+    "creativeIndex": "50.0",
+    "peopleOrientation": {
+      "INSPIRING": "4",
+      "DOMINANT": "3",
+      "SUPPORTIVE": "0",
+      "CAUTIOUS": "0"
+    }
+  }
+},{
+  "_id": 180,
+  "studentId": 135,
+  "personalityType": "ENTP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 50
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 75
+    },
+    {
+      "subject": "CIVICS",
+      "score": 75
+    },
+    {
+      "subject": "HISTORY",
+      "score": 100
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 100
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 100
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 100
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 25
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "62.5",
+    "technicalIndex": "50.0",
+    "creativeIndex": "50.0",
+    "peopleOrientation": {
+      "INSPIRING": "2",
+      "DOMINANT": "2",
+      "SUPPORTIVE": "4",
+      "CAUTIOUS": "0"
+    }
+  }
+},{
+  "_id": 181,
+  "studentId": 267,
+  "personalityType": "ESTP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 50
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 0
+    },
+    {
+      "subject": "CIVICS",
+      "score": 0
+    },
+    {
+      "subject": "HISTORY",
+      "score": 0
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 50
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 25
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 75
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 25
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "25.0",
+    "technicalIndex": "0.0",
+    "creativeIndex": "37.5",
+    "peopleOrientation": {
+      "DOMINANT": "1",
+      "INSPIRING": "2",
+      "SUPPORTIVE": "2",
+      "CAUTIOUS": "0"
+    }
+  }
+},{
+  "_id": 182,
+  "studentId": 126,
+  "personalityType": "ENTJ",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 100
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 100
+    },
+    {
+      "subject": "CIVICS",
+      "score": 75
+    },
+    {
+      "subject": "HISTORY",
+      "score": 50
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 100
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 100
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 100
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 50
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "50.0",
+    "technicalIndex": "37.5",
+    "creativeIndex": "50.0",
+    "peopleOrientation": {
+      "SUPPORTIVE": "4",
+      "INSPIRING": "3",
+      "CAUTIOUS": "0",
+      "DOMINANT": "1"
+    }
+  }
+},{
+  "_id": 183,
+  "studentId": 269,
+  "personalityType": "ISFJ",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 100
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 75
+    },
+    {
+      "subject": "CIVICS",
+      "score": 75
+    },
+    {
+      "subject": "HISTORY",
+      "score": 25
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 50
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 100
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 50
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 25
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "12.5",
+    "technicalIndex": "25.0",
+    "creativeIndex": "50.0",
+    "peopleOrientation": {
+      "SUPPORTIVE": "1",
+      "INSPIRING": "2",
+      "CAUTIOUS": "1",
+      "DOMINANT": "3"
+    }
+  }
+},{
+  "_id": 184,
+  "studentId": 279,
+  "personalityType": "ESTP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 100
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 75
+    },
+    {
+      "subject": "CIVICS",
+      "score": 25
+    },
+    {
+      "subject": "HISTORY",
+      "score": 75
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 100
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 100
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 100
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 25
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "87.5",
+    "technicalIndex": "25.0",
+    "creativeIndex": "75.0",
+    "peopleOrientation": {
+      "DOMINANT": "2",
+      "INSPIRING": "4",
+      "CAUTIOUS": "1",
+      "SUPPORTIVE": "1"
+    }
+  }
+},{
+  "_id": 185,
+  "studentId": 285,
+  "personalityType": "ENTP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 100
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 25
+    },
+    {
+      "subject": "CIVICS",
+      "score": 25
+    },
+    {
+      "subject": "HISTORY",
+      "score": 50
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 100
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 100
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 75
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 0
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "37.5",
+    "technicalIndex": "25.0",
+    "creativeIndex": "50.0",
+    "peopleOrientation": {
+      "INSPIRING": "4",
+      "CAUTIOUS": "0",
+      "SUPPORTIVE": "3",
+      "DOMINANT": "1"
+    }
+  }
+},{
+  "_id": 186,
+  "studentId": 281,
+  "personalityType": "ESFP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 75
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 100
+    },
+    {
+      "subject": "CIVICS",
+      "score": 75
+    },
+    {
+      "subject": "HISTORY",
+      "score": 75
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 100
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 100
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 75
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 25
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "75.0",
+    "technicalIndex": "50.0",
+    "creativeIndex": "25.0",
+    "peopleOrientation": {
+      "INSPIRING": "1",
+      "CAUTIOUS": "0",
+      "SUPPORTIVE": "5",
+      "DOMINANT": "2"
+    }
+  }
+},{
+  "_id": 187,
+  "studentId": 286,
+  "personalityType": "ISFP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 100
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 25
+    },
+    {
+      "subject": "CIVICS",
+      "score": 50
+    },
+    {
+      "subject": "HISTORY",
+      "score": 25
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 100
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 25
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 75
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 50
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "62.5",
+    "technicalIndex": "25.0",
+    "creativeIndex": "50.0",
+    "peopleOrientation": {
+      "SUPPORTIVE": "1",
+      "DOMINANT": "1",
+      "CAUTIOUS": "2",
+      "INSPIRING": "4"
+    }
+  }
+},{
+  "_id": 188,
+  "studentId": 287,
+  "personalityType": "ESTP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 75
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 75
+    },
+    {
+      "subject": "CIVICS",
+      "score": 75
+    },
+    {
+      "subject": "HISTORY",
+      "score": 75
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 50
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 100
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 50
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 0
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "87.5",
+    "technicalIndex": "62.5",
+    "creativeIndex": "62.5",
+    "peopleOrientation": {
+      "DOMINANT": "2",
+      "INSPIRING": "1",
+      "CAUTIOUS": "4",
+      "SUPPORTIVE": "1"
+    }
+  }
+},{
+  "_id": 189,
+  "studentId": 289,
+  "personalityType": "INFP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 75
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 25
+    },
+    {
+      "subject": "CIVICS",
+      "score": 50
+    },
+    {
+      "subject": "HISTORY",
+      "score": 25
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 100
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 75
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 75
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 0
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "50.0",
+    "technicalIndex": "50.0",
+    "creativeIndex": "75.0",
+    "peopleOrientation": {
+      "INSPIRING": "6",
+      "DOMINANT": "1",
+      "CAUTIOUS": "0",
+      "SUPPORTIVE": "1"
+    }
+  }
+},{
+  "_id": 190,
+  "studentId": 290,
+  "personalityType": "ENTP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 75
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 100
+    },
+    {
+      "subject": "CIVICS",
+      "score": 75
+    },
+    {
+      "subject": "HISTORY",
+      "score": 50
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 100
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 100
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 100
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 50
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "87.5",
+    "technicalIndex": "75.0",
+    "creativeIndex": "62.5",
+    "peopleOrientation": {
+      "INSPIRING": "3",
+      "DOMINANT": "0",
+      "CAUTIOUS": "2",
+      "SUPPORTIVE": "3"
+    }
+  }
+},{
+  "_id": 191,
+  "studentId": 291,
+  "personalityType": "ENTP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 75
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 75
+    },
+    {
+      "subject": "CIVICS",
+      "score": 50
+    },
+    {
+      "subject": "HISTORY",
+      "score": 75
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 75
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 100
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 50
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 25
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "75.0",
+    "technicalIndex": "37.5",
+    "creativeIndex": "37.5",
+    "peopleOrientation": {
+      "INSPIRING": "1",
+      "DOMINANT": "2",
+      "CAUTIOUS": "3",
+      "SUPPORTIVE": "2"
+    }
+  }
+},{
+  "_id": 192,
+  "studentId": 293,
+  "personalityType": "ISTP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 75
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 100
+    },
+    {
+      "subject": "CIVICS",
+      "score": 75
+    },
+    {
+      "subject": "HISTORY",
+      "score": 100
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 25
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 50
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 75
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 25
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "50.0",
+    "technicalIndex": "50.0",
+    "creativeIndex": "50.0",
+    "peopleOrientation": {
+      "INSPIRING": "0",
+      "DOMINANT": "3",
+      "CAUTIOUS": "0",
+      "SUPPORTIVE": "5"
+    }
+  }
+},{
+  "_id": 193,
+  "studentId": 304,
+  "personalityType": "ESTJ",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 75
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 50
+    },
+    {
+      "subject": "CIVICS",
+      "score": 50
+    },
+    {
+      "subject": "HISTORY",
+      "score": 25
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 100
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 50
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 100
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 0
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "25.0",
+    "technicalIndex": "12.5",
+    "creativeIndex": "62.5",
+    "peopleOrientation": {
+      "DOMINANT": "0",
+      "CAUTIOUS": "2",
+      "SUPPORTIVE": "4",
+      "INSPIRING": "2"
+    }
+  }
+},{
+  "_id": 194,
+  "studentId": 294,
+  "personalityType": "ESFJ"
+},{
+  "_id": 195,
+  "studentId": 295,
+  "personalityType": "ENFP"
+},{
+  "_id": 196,
+  "studentId": 296,
+  "personalityType": "ESFP"
+},{
+  "_id": 197,
+  "studentId": 297,
+  "personalityType": "ESFJ"
+},{
+  "_id": 198,
+  "studentId": 298,
+  "personalityType": "ESFP"
+},{
+  "_id": 199,
+  "studentId": 299,
+  "personalityType": "ESTP"
+},{
+  "_id": 200,
+  "studentId": 300,
+  "personalityType": "ENTP"
+},{
+  "_id": 201,
+  "studentId": 301,
+  "personalityType": "ESTP"
+},{
+  "_id": 202,
+  "studentId": 302,
+  "personalityType": "ENTJ"
+},{
+  "_id": 203,
+  "studentId": 305,
+  "personalityType": "ESTP"
+},{
+  "_id": 204,
+  "studentId": 306,
+  "personalityType": "ENTJ"
+},{
+  "_id": 205,
+  "studentId": 307,
+  "personalityType": "ESTP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 100
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 100
+    },
+    {
+      "subject": "CIVICS",
+      "score": 75
+    },
+    {
+      "subject": "HISTORY",
+      "score": 75
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 75
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 75
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 75
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 25
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "75.0",
+    "technicalIndex": "75.0",
+    "creativeIndex": "75.0",
+    "peopleOrientation": {
+      "SUPPORTIVE": "2",
+      "DOMINANT": "1",
+      "CAUTIOUS": "4",
+      "INSPIRING": "1"
+    }
+  }
+},{
+  "_id": 206,
+  "studentId": 308,
+  "personalityType": "ESTP",
+  "subjectScores": [
+    {
+      "subject": "ENGLISH",
+      "score": 100
+    },
+    {
+      "subject": "GEOGRAPHY",
+      "score": 50
+    },
+    {
+      "subject": "CIVICS",
+      "score": 50
+    },
+    {
+      "subject": "HISTORY",
+      "score": 50
+    },
+    {
+      "subject": "BIOLOGY",
+      "score": 75
+    },
+    {
+      "subject": "PHYSICS",
+      "score": 100
+    },
+    {
+      "subject": "CHEMISTRY",
+      "score": 75
+    },
+    {
+      "subject": "MATHEMATICS",
+      "score": 25
+    }
+  ],
+  "thinkingOrientation": {
+    "analyticalIndex": "75.0",
+    "technicalIndex": "25.0",
+    "creativeIndex": "62.5",
+    "peopleOrientation": {
+      "SUPPORTIVE": "2",
+      "DOMINANT": "1",
+      "CAUTIOUS": "2",
+      "INSPIRING": "3"
+    }
+  }
+}]
